@@ -3,19 +3,10 @@
     "input_path": "data-pr/input-large.txt",
     "tmp_folder": "mr_tmp/",
     "output_file": "mr_tmp/output-pr.txt",
-    "mappers": 2,
-    "reducers": 2,
+    "mappers": 16,
+    "reducers": 16,
     "nodes": [
-        "c7-27",
-        "c7-26",
-        "c7-25",
-        "c7-24",
-        "c7-23",
-        "c7-22",
-        "c7-21",
-        "c7-20",
-        "c7-19",
-        "c7-18"
+        "c7-27"
     ],
     "local": true,
     "input_scale": 1

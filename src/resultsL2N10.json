@@ -1,0 +1,114 @@
+[
+    {
+        "mappers": 2,
+        "reducers": 2,
+        "mapper_time": 20.008569,
+        "reducer_time": 3.923711,
+        "total_time": 23.932280000000002
+    },
+    {
+        "mappers": 2,
+        "reducers": 4,
+        "mapper_time": 20.367392,
+        "reducer_time": 2.155777,
+        "total_time": 22.523169
+    },
+    {
+        "mappers": 2,
+        "reducers": 8,
+        "mapper_time": 20.078618,
+        "reducer_time": 1.008387,
+        "total_time": 21.087004999999998
+    },
+    {
+        "mappers": 2,
+        "reducers": 16,
+        "mapper_time": 19.981456,
+        "reducer_time": 0.436153,
+        "total_time": 20.417609000000002
+    },
+    {
+        "mappers": 4,
+        "reducers": 2,
+        "mapper_time": 10.165142,
+        "reducer_time": 3.936882,
+        "total_time": 14.102024
+    },
+    {
+        "mappers": 4,
+        "reducers": 4,
+        "mapper_time": 10.140358,
+        "reducer_time": 2.087709,
+        "total_time": 12.228067000000001
+    },
+    {
+        "mappers": 4,
+        "reducers": 8,
+        "mapper_time": 10.525823,
+        "reducer_time": 1.049489,
+        "total_time": 11.575312
+    },
+    {
+        "mappers": 4,
+        "reducers": 16,
+        "mapper_time": 10.268861,
+        "reducer_time": 0.464472,
+        "total_time": 10.733333
+    },
+    {
+        "mappers": 8,
+        "reducers": 2,
+        "mapper_time": 6.038346,
+        "reducer_time": 3.954458,
+        "total_time": 9.992804
+    },
+    {
+        "mappers": 8,
+        "reducers": 4,
+        "mapper_time": 5.923872,
+        "reducer_time": 2.034297,
+        "total_time": 7.958169
+    },
+    {
+        "mappers": 8,
+        "reducers": 8,
+        "mapper_time": 5.70225,
+        "reducer_time": 1.071057,
+        "total_time": 6.773307
+    },
+    {
+        "mappers": 8,
+        "reducers": 16,
+        "mapper_time": 6.151397,
+        "reducer_time": 0.505231,
+        "total_time": 6.656628
+    },
+    {
+        "mappers": 16,
+        "reducers": 2,
+        "mapper_time": 2.682926,
+        "reducer_time": 3.988538,
+        "total_time": 6.671464
+    },
+    {
+        "mappers": 16,
+        "reducers": 4,
+        "mapper_time": 3.035899,
+        "reducer_time": 2.125783,
+        "total_time": 5.161682000000001
+    },
+    {
+        "mappers": 16,
+        "reducers": 8,
+        "mapper_time": 3.005181,
+        "reducer_time": 1.037372,
+        "total_time": 4.042553
+    },
+    {
+        "mappers": 16,
+        "reducers": 16,
+        "mapper_time": 3.173451,
+        "reducer_time": 0.51128,
+        "total_time": 3.684731
+    }
+]
