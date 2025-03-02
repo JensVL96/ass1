@@ -1,0 +1,1424 @@
+2025-02-11 15:49:47,781 Didn't see any /etc/invoke.yaml, skipping.
+2025-02-11 15:49:47,781 Didn't see any /etc/invoke.yml, skipping.
+2025-02-11 15:49:47,781 Didn't see any /etc/invoke.yaml, skipping.
+2025-02-11 15:49:47,782 Didn't see any /etc/invoke.json, skipping.
+2025-02-11 15:49:47,782 Didn't see any /etc/invoke.yml, skipping.
+2025-02-11 15:49:47,782 Didn't see any /etc/invoke.yaml, skipping.
+2025-02-11 15:49:47,782 Didn't see any /etc/invoke.yaml, skipping.
+2025-02-11 15:49:47,783 Didn't see any /mnt/users/jeley4465/.invoke.yaml, skipping.
+2025-02-11 15:49:47,783 Didn't see any /etc/invoke.json, skipping.
+2025-02-11 15:49:47,783 Didn't see any /etc/invoke.yml, skipping.
+2025-02-11 15:49:47,783 Didn't see any /etc/invoke.yml, skipping.
+2025-02-11 15:49:47,783 Didn't see any /mnt/users/jeley4465/.invoke.yml, skipping.
+2025-02-11 15:49:47,783 Didn't see any /mnt/users/jeley4465/.invoke.yaml, skipping.
+2025-02-11 15:49:47,784 Didn't see any /etc/invoke.json, skipping.
+2025-02-11 15:49:47,784 Didn't see any /etc/invoke.json, skipping.
+2025-02-11 15:49:47,784 Didn't see any /mnt/users/jeley4465/.invoke.json, skipping.
+2025-02-11 15:49:47,784 Didn't see any /mnt/users/jeley4465/.invoke.yml, skipping.
+2025-02-11 15:49:47,784 Didn't see any /mnt/users/jeley4465/.invoke.yaml, skipping.
+2025-02-11 15:49:47,784 Didn't see any /mnt/users/jeley4465/.invoke.yaml, skipping.
+2025-02-11 15:49:47,784 Merging config sources in order onto new empty _config...
+2025-02-11 15:49:47,784 Didn't see any /mnt/users/jeley4465/.invoke.json, skipping.
+2025-02-11 15:49:47,785 Didn't see any /mnt/users/jeley4465/.invoke.yml, skipping.
+2025-02-11 15:49:47,785 Didn't see any /mnt/users/jeley4465/.invoke.yml, skipping.
+2025-02-11 15:49:47,785 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'tasks', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None}}
+2025-02-11 15:49:47,785 Merging config sources in order onto new empty _config...
+2025-02-11 15:49:47,785 Didn't see any /mnt/users/jeley4465/.invoke.json, skipping.
+2025-02-11 15:49:47,785 Didn't see any /mnt/users/jeley4465/.invoke.json, skipping.
+2025-02-11 15:49:47,785 Collection-driven: {}
+2025-02-11 15:49:47,785 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'tasks', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None}}
+2025-02-11 15:49:47,785 Merging config sources in order onto new empty _config...
+2025-02-11 15:49:47,786 Merging config sources in order onto new empty _config...
+2025-02-11 15:49:47,786 System-wide config file (/etc/invoke.py): {}
+2025-02-11 15:49:47,786 Collection-driven: {}
+2025-02-11 15:49:47,786 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'tasks', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None}}
+2025-02-11 15:49:47,786 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'tasks', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None}}
+2025-02-11 15:49:47,786 Per-user config file (/mnt/users/jeley4465/.invoke.py): {}
+2025-02-11 15:49:47,786 System-wide config file (/etc/invoke.py): {}
+2025-02-11 15:49:47,786 Collection-driven: {}
+2025-02-11 15:49:47,786 Collection-driven: {}
+2025-02-11 15:49:47,786 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:49:47,787 Per-user config file (/mnt/users/jeley4465/.invoke.py): {}
+2025-02-11 15:49:47,787 System-wide config file (/etc/invoke.py): {}
+2025-02-11 15:49:47,787 System-wide config file (/etc/invoke.py): {}
+2025-02-11 15:49:47,787 Environment variable config: {}
+2025-02-11 15:49:47,787 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:49:47,787 Per-user config file (/mnt/users/jeley4465/.invoke.py): {}
+2025-02-11 15:49:47,787 Per-user config file (/mnt/users/jeley4465/.invoke.py): {}
+2025-02-11 15:49:47,787 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:49:47,787 Environment variable config: {}
+2025-02-11 15:49:47,787 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:49:47,787 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:49:47,787 Overrides: {}
+2025-02-11 15:49:47,788 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:49:47,788 Environment variable config: {}
+2025-02-11 15:49:47,788 Environment variable config: {}
+2025-02-11 15:49:47,788 Modifications: {}
+2025-02-11 15:49:47,788 Overrides: {}
+2025-02-11 15:49:47,788 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:49:47,788 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:49:47,788 Deletions: {}
+2025-02-11 15:49:47,788 Modifications: {}
+2025-02-11 15:49:47,788 Overrides: {}
+2025-02-11 15:49:47,788 Overrides: {}
+2025-02-11 15:49:47,789 Didn't see any /etc/fabric.yaml, skipping.
+2025-02-11 15:49:47,789 Deletions: {}
+2025-02-11 15:49:47,789 Modifications: {}
+2025-02-11 15:49:47,789 Modifications: {}
+2025-02-11 15:49:47,789 Didn't see any /etc/fabric.yml, skipping.
+2025-02-11 15:49:47,789 Deletions: {}
+2025-02-11 15:49:47,789 Didn't see any /etc/fabric.yaml, skipping.
+2025-02-11 15:49:47,789 Deletions: {}
+2025-02-11 15:49:47,790 Didn't see any /etc/fabric.json, skipping.
+2025-02-11 15:49:47,790 Didn't see any /etc/fabric.yaml, skipping.
+2025-02-11 15:49:47,790 Didn't see any /etc/fabric.yml, skipping.
+2025-02-11 15:49:47,790 Didn't see any /etc/fabric.yaml, skipping.
+2025-02-11 15:49:47,790 Didn't see any /mnt/users/jeley4465/.fabric.yaml, skipping.
+2025-02-11 15:49:47,791 Didn't see any /etc/fabric.yml, skipping.
+2025-02-11 15:49:47,791 Didn't see any /etc/fabric.json, skipping.
+2025-02-11 15:49:47,791 Didn't see any /etc/fabric.yml, skipping.
+2025-02-11 15:49:47,791 Didn't see any /mnt/users/jeley4465/.fabric.yml, skipping.
+2025-02-11 15:49:47,791 Didn't see any /etc/fabric.json, skipping.
+2025-02-11 15:49:47,791 Didn't see any /mnt/users/jeley4465/.fabric.yaml, skipping.
+2025-02-11 15:49:47,791 Didn't see any /etc/fabric.json, skipping.
+2025-02-11 15:49:47,791 Didn't see any /mnt/users/jeley4465/.fabric.json, skipping.
+2025-02-11 15:49:47,792 Didn't see any /mnt/users/jeley4465/.fabric.yaml, skipping.
+2025-02-11 15:49:47,792 Didn't see any /mnt/users/jeley4465/.fabric.yml, skipping.
+2025-02-11 15:49:47,792 Didn't see any /mnt/users/jeley4465/.fabric.yaml, skipping.
+2025-02-11 15:49:47,792 Merging config sources in order onto new empty _config...
+2025-02-11 15:49:47,792 Didn't see any /mnt/users/jeley4465/.fabric.yml, skipping.
+2025-02-11 15:49:47,792 Didn't see any /mnt/users/jeley4465/.fabric.json, skipping.
+2025-02-11 15:49:47,792 Didn't see any /mnt/users/jeley4465/.fabric.yml, skipping.
+2025-02-11 15:49:47,792 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 15:49:47,793 Didn't see any /mnt/users/jeley4465/.fabric.json, skipping.
+2025-02-11 15:49:47,793 Merging config sources in order onto new empty _config...
+2025-02-11 15:49:47,793 Didn't see any /mnt/users/jeley4465/.fabric.json, skipping.
+2025-02-11 15:49:47,793 Collection-driven: {}
+2025-02-11 15:49:47,793 Merging config sources in order onto new empty _config...
+2025-02-11 15:49:47,793 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 15:49:47,793 Merging config sources in order onto new empty _config...
+2025-02-11 15:49:47,793 System-wide config file (/etc/fabric.py): {}
+2025-02-11 15:49:47,793 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 15:49:47,793 Collection-driven: {}
+2025-02-11 15:49:47,794 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 15:49:47,794 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 15:49:47,794 Collection-driven: {}
+2025-02-11 15:49:47,794 System-wide config file (/etc/fabric.py): {}
+2025-02-11 15:49:47,794 Collection-driven: {}
+2025-02-11 15:49:47,794 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:49:47,794 System-wide config file (/etc/fabric.py): {}
+2025-02-11 15:49:47,794 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 15:49:47,794 System-wide config file (/etc/fabric.py): {}
+2025-02-11 15:49:47,794 Environment variable config: {}
+2025-02-11 15:49:47,795 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 15:49:47,795 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:49:47,795 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 15:49:47,795 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:49:47,795 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:49:47,795 Environment variable config: {}
+2025-02-11 15:49:47,795 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:49:47,795 Overrides: {}
+2025-02-11 15:49:47,795 Environment variable config: {}
+2025-02-11 15:49:47,795 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:49:47,795 Environment variable config: {}
+2025-02-11 15:49:47,795 Modifications: {}
+2025-02-11 15:49:47,796 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:49:47,796 Overrides: {}
+2025-02-11 15:49:47,796 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:49:47,796 Deletions: {}
+2025-02-11 15:49:47,796 Overrides: {}
+2025-02-11 15:49:47,796 Modifications: {}
+2025-02-11 15:49:47,796 Overrides: {}
+2025-02-11 15:49:47,796 Modifications: {}
+2025-02-11 15:49:47,796 Deletions: {}
+2025-02-11 15:49:47,796 Modifications: {}
+2025-02-11 15:49:47,796 Deletions: {}
+2025-02-11 15:49:47,797 Deletions: {}
+2025-02-11 15:49:47,840 Loaded 2 new ssh_config rules from '/mnt/users/jeley4465/.ssh/config'
+2025-02-11 15:49:47,841 Loaded 2 new ssh_config rules from '/mnt/users/jeley4465/.ssh/config'
+2025-02-11 15:49:47,841 Loaded 2 new ssh_config rules from '/mnt/users/jeley4465/.ssh/config'
+2025-02-11 15:49:47,841 Loaded 1 new ssh_config rules from '/etc/ssh/ssh_config'
+2025-02-11 15:49:47,841 Loaded 2 new ssh_config rules from '/mnt/users/jeley4465/.ssh/config'
+2025-02-11 15:49:47,843 Merging config sources in order onto new empty _config...
+2025-02-11 15:49:47,843 Loaded 1 new ssh_config rules from '/etc/ssh/ssh_config'
+2025-02-11 15:49:47,843 Loaded 1 new ssh_config rules from '/etc/ssh/ssh_config'
+2025-02-11 15:49:47,843 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 15:49:47,844 Merging config sources in order onto new empty _config...
+2025-02-11 15:49:47,845 Merging config sources in order onto new empty _config...
+2025-02-11 15:49:47,845 Loaded 1 new ssh_config rules from '/etc/ssh/ssh_config'
+2025-02-11 15:49:47,845 Collection-driven: {}
+2025-02-11 15:49:47,845 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 15:49:47,846 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 15:49:47,847 Merging config sources in order onto new empty _config...
+2025-02-11 15:49:47,847 System-wide config file (/etc/fabric.py): {}
+2025-02-11 15:49:47,847 Collection-driven: {}
+2025-02-11 15:49:47,847 Collection-driven: {}
+2025-02-11 15:49:47,847 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 15:49:47,847 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 15:49:47,847 System-wide config file (/etc/fabric.py): {}
+2025-02-11 15:49:47,847 System-wide config file (/etc/fabric.py): {}
+2025-02-11 15:49:47,847 Collection-driven: {}
+2025-02-11 15:49:47,848 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:49:47,848 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 15:49:47,848 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 15:49:47,848 System-wide config file (/etc/fabric.py): {}
+2025-02-11 15:49:47,848 Environment variable config: {}
+2025-02-11 15:49:47,848 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:49:47,848 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:49:47,848 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 15:49:47,848 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:49:47,848 Environment variable config: {}
+2025-02-11 15:49:47,848 Environment variable config: {}
+2025-02-11 15:49:47,848 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:49:47,849 Overrides: {}
+2025-02-11 15:49:47,849 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:49:47,849 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:49:47,849 Environment variable config: {}
+2025-02-11 15:49:47,849 Modifications: {'inline_ssh_env': True}
+2025-02-11 15:49:47,849 Overrides: {}
+2025-02-11 15:49:47,849 Overrides: {}
+2025-02-11 15:49:47,849 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:49:47,849 Deletions: {}
+2025-02-11 15:49:47,849 Modifications: {'inline_ssh_env': True}
+2025-02-11 15:49:47,849 Modifications: {'inline_ssh_env': True}
+2025-02-11 15:49:47,849 Overrides: {}
+2025-02-11 15:49:47,850 Deletions: {}
+2025-02-11 15:49:47,850 Deletions: {}
+2025-02-11 15:49:47,850 Modifications: {'inline_ssh_env': True}
+2025-02-11 15:49:47,851 Deletions: {}
+2025-02-11 15:49:47,858 starting thread (client mode): 0x1cccdb20
+2025-02-11 15:49:47,858 starting thread (client mode): 0x1ccce360
+2025-02-11 15:49:47,858 starting thread (client mode): 0x1cccf440
+2025-02-11 15:49:47,858 starting thread (client mode): 0x1eb03170
+2025-02-11 15:49:47,858 Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-02-11 15:49:47,859 Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-02-11 15:49:47,859 Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-02-11 15:49:47,859 Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-02-11 15:49:47,868 Remote version/idstring: SSH-2.0-OpenSSH_8.7
+2025-02-11 15:49:47,868 Connected (version 2.0, client OpenSSH_8.7)
+2025-02-11 15:49:47,869 Remote version/idstring: SSH-2.0-OpenSSH_8.7
+2025-02-11 15:49:47,869 Connected (version 2.0, client OpenSSH_8.7)
+2025-02-11 15:49:47,870 === Key exchange possibilities ===
+2025-02-11 15:49:47,870 kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group14-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, kex-strict-s-v00@openssh.com
+2025-02-11 15:49:47,870 server key: rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+2025-02-11 15:49:47,870 === Key exchange possibilities ===
+2025-02-11 15:49:47,871 client encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 15:49:47,871 kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group14-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, kex-strict-s-v00@openssh.com
+2025-02-11 15:49:47,871 server encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 15:49:47,871 server key: rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+2025-02-11 15:49:47,871 client mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 15:49:47,871 client encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 15:49:47,871 server mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 15:49:47,871 server encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 15:49:47,871 client compress: none, zlib@openssh.com
+2025-02-11 15:49:47,871 client mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 15:49:47,871 server compress: none, zlib@openssh.com
+2025-02-11 15:49:47,872 server mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 15:49:47,872 client lang: <none>
+2025-02-11 15:49:47,872 client compress: none, zlib@openssh.com
+2025-02-11 15:49:47,872 server lang: <none>
+2025-02-11 15:49:47,872 server compress: none, zlib@openssh.com
+2025-02-11 15:49:47,872 kex follows: False
+2025-02-11 15:49:47,872 client lang: <none>
+2025-02-11 15:49:47,872 === Key exchange agreements ===
+2025-02-11 15:49:47,872 server lang: <none>
+2025-02-11 15:49:47,872 Strict kex mode: True
+2025-02-11 15:49:47,872 kex follows: False
+2025-02-11 15:49:47,872 Kex: curve25519-sha256@libssh.org
+2025-02-11 15:49:47,872 === Key exchange agreements ===
+2025-02-11 15:49:47,873 HostKey: ssh-ed25519
+2025-02-11 15:49:47,873 Strict kex mode: True
+2025-02-11 15:49:47,873 Cipher: aes128-ctr
+2025-02-11 15:49:47,873 Kex: curve25519-sha256@libssh.org
+2025-02-11 15:49:47,873 MAC: hmac-sha2-256
+2025-02-11 15:49:47,873 Remote version/idstring: SSH-2.0-OpenSSH_8.7
+2025-02-11 15:49:47,873 HostKey: ssh-ed25519
+2025-02-11 15:49:47,873 Compression: none
+2025-02-11 15:49:47,873 Connected (version 2.0, client OpenSSH_8.7)
+2025-02-11 15:49:47,873 Cipher: aes128-ctr
+2025-02-11 15:49:47,873 === End of kex handshake ===
+2025-02-11 15:49:47,874 MAC: hmac-sha2-256
+2025-02-11 15:49:47,874 Compression: none
+2025-02-11 15:49:47,875 === End of kex handshake ===
+2025-02-11 15:49:47,876 === Key exchange possibilities ===
+2025-02-11 15:49:47,876 kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group14-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, kex-strict-s-v00@openssh.com
+2025-02-11 15:49:47,876 server key: rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+2025-02-11 15:49:47,876 client encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 15:49:47,876 server encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 15:49:47,876 client mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 15:49:47,876 server mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 15:49:47,876 client compress: none, zlib@openssh.com
+2025-02-11 15:49:47,876 server compress: none, zlib@openssh.com
+2025-02-11 15:49:47,876 client lang: <none>
+2025-02-11 15:49:47,876 server lang: <none>
+2025-02-11 15:49:47,876 kex follows: False
+2025-02-11 15:49:47,876 === Key exchange agreements ===
+2025-02-11 15:49:47,876 Strict kex mode: True
+2025-02-11 15:49:47,876 Kex: curve25519-sha256@libssh.org
+2025-02-11 15:49:47,876 HostKey: ssh-ed25519
+2025-02-11 15:49:47,876 Cipher: aes128-ctr
+2025-02-11 15:49:47,877 MAC: hmac-sha2-256
+2025-02-11 15:49:47,877 Compression: none
+2025-02-11 15:49:47,877 === End of kex handshake ===
+2025-02-11 15:49:47,882 Resetting outbound seqno after NEWKEYS due to strict mode
+2025-02-11 15:49:47,882 kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-02-11 15:49:47,882 Switch to new keys ...
+2025-02-11 15:49:47,883 Resetting inbound seqno after NEWKEYS due to strict mode
+2025-02-11 15:49:47,883 Adding ssh-ed25519 host key for c3-0: b'd2e9919251cd512a4cc578f14d908145'
+2025-02-11 15:49:47,883 Resetting outbound seqno after NEWKEYS due to strict mode
+2025-02-11 15:49:47,883 Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com,webauthn-sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-02-11 15:49:47,883 kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-02-11 15:49:47,884 Switch to new keys ...
+2025-02-11 15:49:47,884 Resetting inbound seqno after NEWKEYS due to strict mode
+2025-02-11 15:49:47,884 Adding ssh-ed25519 host key for c3-21: b'aa12ba3c719c6a4f5085024d81618ae2'
+2025-02-11 15:49:47,884 Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com,webauthn-sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-02-11 15:49:47,885 Remote version/idstring: SSH-2.0-OpenSSH_8.7
+2025-02-11 15:49:47,885 Connected (version 2.0, client OpenSSH_8.7)
+2025-02-11 15:49:47,885 Trying discovered key b'b8f30c5d815beaf70907c10c44f23873' in /mnt/users/jeley4465/.ssh/id_ed25519
+2025-02-11 15:49:47,886 Trying discovered key b'b8f30c5d815beaf70907c10c44f23873' in /mnt/users/jeley4465/.ssh/id_ed25519
+2025-02-11 15:49:47,888 Resetting outbound seqno after NEWKEYS due to strict mode
+2025-02-11 15:49:47,888 kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-02-11 15:49:47,888 Switch to new keys ...
+2025-02-11 15:49:47,888 Resetting inbound seqno after NEWKEYS due to strict mode
+2025-02-11 15:49:47,888 Adding ssh-ed25519 host key for c10-1: b'db8f12c14f4a1a07558b0646d1581b87'
+2025-02-11 15:49:47,889 Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com,webauthn-sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-02-11 15:49:47,889 === Key exchange possibilities ===
+2025-02-11 15:49:47,889 kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group14-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, kex-strict-s-v00@openssh.com
+2025-02-11 15:49:47,889 server key: rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+2025-02-11 15:49:47,889 client encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 15:49:47,889 server encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 15:49:47,889 client mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 15:49:47,889 server mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 15:49:47,889 client compress: none, zlib@openssh.com
+2025-02-11 15:49:47,890 server compress: none, zlib@openssh.com
+2025-02-11 15:49:47,890 Trying discovered key b'b8f30c5d815beaf70907c10c44f23873' in /mnt/users/jeley4465/.ssh/id_ed25519
+2025-02-11 15:49:47,890 client lang: <none>
+2025-02-11 15:49:47,890 server lang: <none>
+2025-02-11 15:49:47,890 kex follows: False
+2025-02-11 15:49:47,890 === Key exchange agreements ===
+2025-02-11 15:49:47,890 Strict kex mode: True
+2025-02-11 15:49:47,890 Kex: curve25519-sha256@libssh.org
+2025-02-11 15:49:47,890 HostKey: ssh-ed25519
+2025-02-11 15:49:47,890 Cipher: aes128-ctr
+2025-02-11 15:49:47,890 MAC: hmac-sha2-256
+2025-02-11 15:49:47,890 Compression: none
+2025-02-11 15:49:47,890 === End of kex handshake ===
+2025-02-11 15:49:47,908 Resetting outbound seqno after NEWKEYS due to strict mode
+2025-02-11 15:49:47,908 kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-02-11 15:49:47,908 Switch to new keys ...
+2025-02-11 15:49:47,908 Resetting inbound seqno after NEWKEYS due to strict mode
+2025-02-11 15:49:47,908 Adding ssh-ed25519 host key for c3-32: b'a09ff773e87d5a61962ce005fa70bdd9'
+2025-02-11 15:49:47,908 Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com,webauthn-sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-02-11 15:49:47,909 Trying discovered key b'b8f30c5d815beaf70907c10c44f23873' in /mnt/users/jeley4465/.ssh/id_ed25519
+2025-02-11 15:49:47,922 userauth is OK
+2025-02-11 15:49:47,924 userauth is OK
+2025-02-11 15:49:47,928 userauth is OK
+2025-02-11 15:49:47,949 userauth is OK
+2025-02-11 15:49:48,031 Authentication (publickey) successful!
+2025-02-11 15:49:48,032 [chan 0] Max packet in: 32768 bytes
+2025-02-11 15:49:48,161 Authentication (publickey) successful!
+2025-02-11 15:49:48,162 [chan 0] Max packet in: 32768 bytes
+2025-02-11 15:49:48,269 Received global request "hostkeys-00@openssh.com"
+2025-02-11 15:49:48,269 Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-02-11 15:49:48,269 Debug msg: b'/mnt/users/jeley4465/.ssh/authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding'
+2025-02-11 15:49:48,309 [chan 0] Max packet out: 32768 bytes
+2025-02-11 15:49:48,309 Secsh channel 0 opened.
+2025-02-11 15:49:48,311 [chan 0] Sesch channel 0 request ok
+2025-02-11 15:49:48,330 Authentication (publickey) successful!
+2025-02-11 15:49:48,330 [chan 0] Max packet in: 32768 bytes
+2025-02-11 15:49:48,351 Received global request "hostkeys-00@openssh.com"
+2025-02-11 15:49:48,351 Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-02-11 15:49:48,351 Debug msg: b'/mnt/users/jeley4465/.ssh/authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding'
+2025-02-11 15:49:48,371 Authentication (publickey) successful!
+2025-02-11 15:49:48,372 [chan 0] Max packet in: 32768 bytes
+2025-02-11 15:49:48,392 [chan 0] Max packet out: 32768 bytes
+2025-02-11 15:49:48,392 Secsh channel 0 opened.
+2025-02-11 15:49:48,394 [chan 0] Sesch channel 0 request ok
+2025-02-11 15:49:48,395 Received global request "hostkeys-00@openssh.com"
+2025-02-11 15:49:48,395 Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-02-11 15:49:48,395 Debug msg: b'/mnt/users/jeley4465/.ssh/authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding'
+2025-02-11 15:49:48,436 [chan 0] Max packet out: 32768 bytes
+2025-02-11 15:49:48,436 Secsh channel 0 opened.
+2025-02-11 15:49:48,437 [chan 0] Sesch channel 0 request ok
+2025-02-11 15:49:48,740 Received global request "hostkeys-00@openssh.com"
+2025-02-11 15:49:48,741 Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-02-11 15:49:48,741 Debug msg: b'/mnt/users/jeley4465/.ssh/authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding'
+2025-02-11 15:49:48,781 [chan 0] Max packet out: 32768 bytes
+2025-02-11 15:49:48,781 Secsh channel 0 opened.
+2025-02-11 15:49:48,784 [chan 0] Sesch channel 0 request ok
+2025-02-11 15:50:10,443 [chan 0] EOF received (0)
+2025-02-11 15:50:10,444 [chan 0] EOF sent (0)
+2025-02-11 15:50:14,499 [chan 0] EOF received (0)
+2025-02-11 15:50:14,500 [chan 0] EOF sent (0)
+2025-02-11 15:50:16,740 [chan 0] EOF received (0)
+2025-02-11 15:50:16,741 [chan 0] EOF sent (0)
+2025-02-11 15:50:16,742 [chan 0] EOF received (0)
+2025-02-11 15:50:16,743 [chan 0] EOF sent (0)
+2025-02-11 15:50:16,801 Didn't see any /etc/invoke.yaml, skipping.
+2025-02-11 15:50:16,801 Didn't see any /etc/invoke.yaml, skipping.
+2025-02-11 15:50:16,801 Didn't see any /etc/invoke.yml, skipping.
+2025-02-11 15:50:16,801 Didn't see any /etc/invoke.yml, skipping.
+2025-02-11 15:50:16,802 Didn't see any /etc/invoke.yaml, skipping.
+2025-02-11 15:50:16,802 Didn't see any /etc/invoke.yaml, skipping.
+2025-02-11 15:50:16,802 Didn't see any /etc/invoke.json, skipping.
+2025-02-11 15:50:16,803 Didn't see any /etc/invoke.json, skipping.
+2025-02-11 15:50:16,803 Didn't see any /etc/invoke.yml, skipping.
+2025-02-11 15:50:16,803 Didn't see any /etc/invoke.yml, skipping.
+2025-02-11 15:50:16,803 Didn't see any /mnt/users/jeley4465/.invoke.yaml, skipping.
+2025-02-11 15:50:16,803 Didn't see any /mnt/users/jeley4465/.invoke.yaml, skipping.
+2025-02-11 15:50:16,803 Didn't see any /etc/invoke.json, skipping.
+2025-02-11 15:50:16,803 Didn't see any /etc/invoke.json, skipping.
+2025-02-11 15:50:16,803 Didn't see any /mnt/users/jeley4465/.invoke.yml, skipping.
+2025-02-11 15:50:16,804 Didn't see any /mnt/users/jeley4465/.invoke.yml, skipping.
+2025-02-11 15:50:16,804 Didn't see any /mnt/users/jeley4465/.invoke.yaml, skipping.
+2025-02-11 15:50:16,804 Didn't see any /mnt/users/jeley4465/.invoke.yaml, skipping.
+2025-02-11 15:50:16,804 Didn't see any /mnt/users/jeley4465/.invoke.json, skipping.
+2025-02-11 15:50:16,804 Didn't see any /mnt/users/jeley4465/.invoke.json, skipping.
+2025-02-11 15:50:16,804 Didn't see any /mnt/users/jeley4465/.invoke.yml, skipping.
+2025-02-11 15:50:16,804 Didn't see any /mnt/users/jeley4465/.invoke.yml, skipping.
+2025-02-11 15:50:16,804 Merging config sources in order onto new empty _config...
+2025-02-11 15:50:16,804 Merging config sources in order onto new empty _config...
+2025-02-11 15:50:16,805 Didn't see any /mnt/users/jeley4465/.invoke.json, skipping.
+2025-02-11 15:50:16,805 Didn't see any /mnt/users/jeley4465/.invoke.json, skipping.
+2025-02-11 15:50:16,805 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'tasks', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None}}
+2025-02-11 15:50:16,805 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'tasks', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None}}
+2025-02-11 15:50:16,805 Merging config sources in order onto new empty _config...
+2025-02-11 15:50:16,805 Merging config sources in order onto new empty _config...
+2025-02-11 15:50:16,805 Collection-driven: {}
+2025-02-11 15:50:16,805 Collection-driven: {}
+2025-02-11 15:50:16,805 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'tasks', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None}}
+2025-02-11 15:50:16,805 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'tasks', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None}}
+2025-02-11 15:50:16,805 System-wide config file (/etc/invoke.py): {}
+2025-02-11 15:50:16,806 System-wide config file (/etc/invoke.py): {}
+2025-02-11 15:50:16,806 Collection-driven: {}
+2025-02-11 15:50:16,806 Collection-driven: {}
+2025-02-11 15:50:16,806 Per-user config file (/mnt/users/jeley4465/.invoke.py): {}
+2025-02-11 15:50:16,806 Per-user config file (/mnt/users/jeley4465/.invoke.py): {}
+2025-02-11 15:50:16,806 System-wide config file (/etc/invoke.py): {}
+2025-02-11 15:50:16,806 System-wide config file (/etc/invoke.py): {}
+2025-02-11 15:50:16,806 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:50:16,806 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:50:16,806 Per-user config file (/mnt/users/jeley4465/.invoke.py): {}
+2025-02-11 15:50:16,806 Per-user config file (/mnt/users/jeley4465/.invoke.py): {}
+2025-02-11 15:50:16,806 Environment variable config: {}
+2025-02-11 15:50:16,806 Environment variable config: {}
+2025-02-11 15:50:16,807 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:50:16,807 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:50:16,807 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:50:16,807 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:50:16,807 Environment variable config: {}
+2025-02-11 15:50:16,807 Environment variable config: {}
+2025-02-11 15:50:16,807 Overrides: {}
+2025-02-11 15:50:16,807 Overrides: {}
+2025-02-11 15:50:16,807 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:50:16,807 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:50:16,807 Modifications: {}
+2025-02-11 15:50:16,807 Modifications: {}
+2025-02-11 15:50:16,807 Overrides: {}
+2025-02-11 15:50:16,807 Overrides: {}
+2025-02-11 15:50:16,807 Deletions: {}
+2025-02-11 15:50:16,807 Deletions: {}
+2025-02-11 15:50:16,808 Modifications: {}
+2025-02-11 15:50:16,808 Modifications: {}
+2025-02-11 15:50:16,808 Didn't see any /etc/fabric.yaml, skipping.
+2025-02-11 15:50:16,808 Didn't see any /etc/fabric.yaml, skipping.
+2025-02-11 15:50:16,808 Deletions: {}
+2025-02-11 15:50:16,808 Deletions: {}
+2025-02-11 15:50:16,808 Didn't see any /etc/fabric.yml, skipping.
+2025-02-11 15:50:16,808 Didn't see any /etc/fabric.yml, skipping.
+2025-02-11 15:50:16,809 Didn't see any /etc/fabric.yaml, skipping.
+2025-02-11 15:50:16,809 Didn't see any /etc/fabric.yaml, skipping.
+2025-02-11 15:50:16,809 Didn't see any /etc/fabric.json, skipping.
+2025-02-11 15:50:16,809 Didn't see any /etc/fabric.json, skipping.
+2025-02-11 15:50:16,809 Didn't see any /etc/fabric.yml, skipping.
+2025-02-11 15:50:16,809 Didn't see any /etc/fabric.yml, skipping.
+2025-02-11 15:50:16,809 Didn't see any /mnt/users/jeley4465/.fabric.yaml, skipping.
+2025-02-11 15:50:16,809 Didn't see any /mnt/users/jeley4465/.fabric.yaml, skipping.
+2025-02-11 15:50:16,809 Didn't see any /etc/fabric.json, skipping.
+2025-02-11 15:50:16,810 Didn't see any /etc/fabric.json, skipping.
+2025-02-11 15:50:16,810 Didn't see any /mnt/users/jeley4465/.fabric.yml, skipping.
+2025-02-11 15:50:16,810 Didn't see any /mnt/users/jeley4465/.fabric.yml, skipping.
+2025-02-11 15:50:16,810 Didn't see any /mnt/users/jeley4465/.fabric.yaml, skipping.
+2025-02-11 15:50:16,810 Didn't see any /mnt/users/jeley4465/.fabric.yaml, skipping.
+2025-02-11 15:50:16,810 Didn't see any /mnt/users/jeley4465/.fabric.json, skipping.
+2025-02-11 15:50:16,810 Didn't see any /mnt/users/jeley4465/.fabric.json, skipping.
+2025-02-11 15:50:16,810 Didn't see any /mnt/users/jeley4465/.fabric.yml, skipping.
+2025-02-11 15:50:16,810 Didn't see any /mnt/users/jeley4465/.fabric.yml, skipping.
+2025-02-11 15:50:16,811 Merging config sources in order onto new empty _config...
+2025-02-11 15:50:16,811 Merging config sources in order onto new empty _config...
+2025-02-11 15:50:16,811 Didn't see any /mnt/users/jeley4465/.fabric.json, skipping.
+2025-02-11 15:50:16,811 Didn't see any /mnt/users/jeley4465/.fabric.json, skipping.
+2025-02-11 15:50:16,811 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 15:50:16,811 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 15:50:16,811 Merging config sources in order onto new empty _config...
+2025-02-11 15:50:16,811 Merging config sources in order onto new empty _config...
+2025-02-11 15:50:16,811 Collection-driven: {}
+2025-02-11 15:50:16,811 Collection-driven: {}
+2025-02-11 15:50:16,812 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 15:50:16,812 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 15:50:16,812 System-wide config file (/etc/fabric.py): {}
+2025-02-11 15:50:16,812 System-wide config file (/etc/fabric.py): {}
+2025-02-11 15:50:16,812 Collection-driven: {}
+2025-02-11 15:50:16,812 Collection-driven: {}
+2025-02-11 15:50:16,812 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 15:50:16,812 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 15:50:16,812 System-wide config file (/etc/fabric.py): {}
+2025-02-11 15:50:16,812 System-wide config file (/etc/fabric.py): {}
+2025-02-11 15:50:16,812 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:50:16,812 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:50:16,812 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 15:50:16,812 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 15:50:16,813 Environment variable config: {}
+2025-02-11 15:50:16,813 Environment variable config: {}
+2025-02-11 15:50:16,813 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:50:16,813 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:50:16,813 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:50:16,813 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:50:16,813 Environment variable config: {}
+2025-02-11 15:50:16,813 Environment variable config: {}
+2025-02-11 15:50:16,813 Overrides: {}
+2025-02-11 15:50:16,813 Overrides: {}
+2025-02-11 15:50:16,813 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:50:16,813 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:50:16,813 Modifications: {}
+2025-02-11 15:50:16,813 Modifications: {}
+2025-02-11 15:50:16,813 Overrides: {}
+2025-02-11 15:50:16,814 Overrides: {}
+2025-02-11 15:50:16,814 Deletions: {}
+2025-02-11 15:50:16,814 Deletions: {}
+2025-02-11 15:50:16,814 Modifications: {}
+2025-02-11 15:50:16,814 Modifications: {}
+2025-02-11 15:50:16,814 Deletions: {}
+2025-02-11 15:50:16,814 Loaded 2 new ssh_config rules from '/mnt/users/jeley4465/.ssh/config'
+2025-02-11 15:50:16,814 Deletions: {}
+2025-02-11 15:50:16,815 Loaded 2 new ssh_config rules from '/mnt/users/jeley4465/.ssh/config'
+2025-02-11 15:50:16,815 Loaded 2 new ssh_config rules from '/mnt/users/jeley4465/.ssh/config'
+2025-02-11 15:50:16,815 Loaded 2 new ssh_config rules from '/mnt/users/jeley4465/.ssh/config'
+2025-02-11 15:50:16,815 Loaded 1 new ssh_config rules from '/etc/ssh/ssh_config'
+2025-02-11 15:50:16,815 Loaded 1 new ssh_config rules from '/etc/ssh/ssh_config'
+2025-02-11 15:50:16,816 Loaded 1 new ssh_config rules from '/etc/ssh/ssh_config'
+2025-02-11 15:50:16,817 Merging config sources in order onto new empty _config...
+2025-02-11 15:50:16,818 Merging config sources in order onto new empty _config...
+2025-02-11 15:50:16,818 Loaded 1 new ssh_config rules from '/etc/ssh/ssh_config'
+2025-02-11 15:50:16,819 Merging config sources in order onto new empty _config...
+2025-02-11 15:50:16,819 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 15:50:16,819 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 15:50:16,820 Merging config sources in order onto new empty _config...
+2025-02-11 15:50:16,820 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 15:50:16,820 Collection-driven: {}
+2025-02-11 15:50:16,820 Collection-driven: {}
+2025-02-11 15:50:16,820 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 15:50:16,820 Collection-driven: {}
+2025-02-11 15:50:16,820 System-wide config file (/etc/fabric.py): {}
+2025-02-11 15:50:16,820 System-wide config file (/etc/fabric.py): {}
+2025-02-11 15:50:16,820 Collection-driven: {}
+2025-02-11 15:50:16,821 System-wide config file (/etc/fabric.py): {}
+2025-02-11 15:50:16,821 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 15:50:16,821 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 15:50:16,821 System-wide config file (/etc/fabric.py): {}
+2025-02-11 15:50:16,821 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 15:50:16,821 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:50:16,821 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:50:16,821 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 15:50:16,821 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:50:16,821 Environment variable config: {}
+2025-02-11 15:50:16,821 Environment variable config: {}
+2025-02-11 15:50:16,821 Per-project config file has not been loaded yet, skipping
+2025-02-11 15:50:16,821 Environment variable config: {}
+2025-02-11 15:50:16,821 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:50:16,821 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:50:16,822 Environment variable config: {}
+2025-02-11 15:50:16,822 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:50:16,822 Overrides: {}
+2025-02-11 15:50:16,822 Overrides: {}
+2025-02-11 15:50:16,822 Runtime config file has not been loaded yet, skipping
+2025-02-11 15:50:16,822 Overrides: {}
+2025-02-11 15:50:16,822 Modifications: {'inline_ssh_env': True}
+2025-02-11 15:50:16,822 Modifications: {'inline_ssh_env': True}
+2025-02-11 15:50:16,822 Overrides: {}
+2025-02-11 15:50:16,822 Modifications: {'inline_ssh_env': True}
+2025-02-11 15:50:16,822 Deletions: {}
+2025-02-11 15:50:16,822 Deletions: {}
+2025-02-11 15:50:16,822 Modifications: {'inline_ssh_env': True}
+2025-02-11 15:50:16,822 Deletions: {}
+2025-02-11 15:50:16,823 Deletions: {}
+2025-02-11 15:50:16,825 starting thread (client mode): 0x1ccf4c80
+2025-02-11 15:50:16,825 Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-02-11 15:50:16,836 Remote version/idstring: SSH-2.0-OpenSSH_8.7
+2025-02-11 15:50:16,836 Connected (version 2.0, client OpenSSH_8.7)
+2025-02-11 15:50:16,838 === Key exchange possibilities ===
+2025-02-11 15:50:16,838 kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group14-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, kex-strict-s-v00@openssh.com
+2025-02-11 15:50:16,838 server key: rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+2025-02-11 15:50:16,838 client encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 15:50:16,838 server encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 15:50:16,839 client mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 15:50:16,839 server mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 15:50:16,839 client compress: none, zlib@openssh.com
+2025-02-11 15:50:16,839 server compress: none, zlib@openssh.com
+2025-02-11 15:50:16,839 client lang: <none>
+2025-02-11 15:50:16,839 server lang: <none>
+2025-02-11 15:50:16,839 kex follows: False
+2025-02-11 15:50:16,839 === Key exchange agreements ===
+2025-02-11 15:50:16,839 Strict kex mode: True
+2025-02-11 15:50:16,839 Kex: curve25519-sha256@libssh.org
+2025-02-11 15:50:16,839 HostKey: ssh-ed25519
+2025-02-11 15:50:16,839 Cipher: aes128-ctr
+2025-02-11 15:50:16,839 MAC: hmac-sha2-256
+2025-02-11 15:50:16,839 Compression: none
+2025-02-11 15:50:16,839 === End of kex handshake ===
+2025-02-11 15:50:16,846 Resetting outbound seqno after NEWKEYS due to strict mode
+2025-02-11 15:50:16,847 kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-02-11 15:50:16,847 Switch to new keys ...
+2025-02-11 15:50:16,847 Resetting inbound seqno after NEWKEYS due to strict mode
+2025-02-11 15:50:16,847 Adding ssh-ed25519 host key for c3-0: b'd2e9919251cd512a4cc578f14d908145'
+2025-02-11 15:50:16,848 starting thread (client mode): 0x1ccf5e80
+2025-02-11 15:50:16,848 Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com,webauthn-sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-02-11 15:50:16,848 starting thread (client mode): 0x1ccf68a0
+2025-02-11 15:50:16,848 Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-02-11 15:50:16,849 Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-02-11 15:50:16,849 starting thread (client mode): 0x1ccf5ca0
+2025-02-11 15:50:16,849 Trying discovered key b'b8f30c5d815beaf70907c10c44f23873' in /mnt/users/jeley4465/.ssh/id_ed25519
+2025-02-11 15:50:16,849 Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-02-11 15:50:16,859 Remote version/idstring: SSH-2.0-OpenSSH_8.7
+2025-02-11 15:50:16,859 Connected (version 2.0, client OpenSSH_8.7)
+2025-02-11 15:50:16,861 === Key exchange possibilities ===
+2025-02-11 15:50:16,861 kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group14-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, kex-strict-s-v00@openssh.com
+2025-02-11 15:50:16,861 server key: rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+2025-02-11 15:50:16,861 client encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 15:50:16,861 server encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 15:50:16,861 client mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 15:50:16,861 server mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 15:50:16,861 client compress: none, zlib@openssh.com
+2025-02-11 15:50:16,861 server compress: none, zlib@openssh.com
+2025-02-11 15:50:16,861 client lang: <none>
+2025-02-11 15:50:16,861 server lang: <none>
+2025-02-11 15:50:16,861 kex follows: False
+2025-02-11 15:50:16,862 === Key exchange agreements ===
+2025-02-11 15:50:16,862 Strict kex mode: True
+2025-02-11 15:50:16,862 Kex: curve25519-sha256@libssh.org
+2025-02-11 15:50:16,862 HostKey: ssh-ed25519
+2025-02-11 15:50:16,862 Cipher: aes128-ctr
+2025-02-11 15:50:16,862 MAC: hmac-sha2-256
+2025-02-11 15:50:16,862 Compression: none
+2025-02-11 15:50:16,862 === End of kex handshake ===
+2025-02-11 15:50:16,864 Remote version/idstring: SSH-2.0-OpenSSH_8.7
+2025-02-11 15:50:16,864 Connected (version 2.0, client OpenSSH_8.7)
+2025-02-11 15:50:16,866 === Key exchange possibilities ===
+2025-02-11 15:50:16,867 kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group14-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, kex-strict-s-v00@openssh.com
+2025-02-11 15:50:16,867 server key: rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+2025-02-11 15:50:16,867 client encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 15:50:16,867 server encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 15:50:16,867 client mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 15:50:16,867 server mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 15:50:16,867 client compress: none, zlib@openssh.com
+2025-02-11 15:50:16,867 server compress: none, zlib@openssh.com
+2025-02-11 15:50:16,867 client lang: <none>
+2025-02-11 15:50:16,867 server lang: <none>
+2025-02-11 15:50:16,867 kex follows: False
+2025-02-11 15:50:16,867 === Key exchange agreements ===
+2025-02-11 15:50:16,867 Strict kex mode: True
+2025-02-11 15:50:16,867 Kex: curve25519-sha256@libssh.org
+2025-02-11 15:50:16,867 HostKey: ssh-ed25519
+2025-02-11 15:50:16,867 Cipher: aes128-ctr
+2025-02-11 15:50:16,867 MAC: hmac-sha2-256
+2025-02-11 15:50:16,867 Compression: none
+2025-02-11 15:50:16,868 === End of kex handshake ===
+2025-02-11 15:50:16,869 Resetting outbound seqno after NEWKEYS due to strict mode
+2025-02-11 15:50:16,869 kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-02-11 15:50:16,869 Switch to new keys ...
+2025-02-11 15:50:16,869 Resetting inbound seqno after NEWKEYS due to strict mode
+2025-02-11 15:50:16,870 Adding ssh-ed25519 host key for c3-21: b'aa12ba3c719c6a4f5085024d81618ae2'
+2025-02-11 15:50:16,870 Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com,webauthn-sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-02-11 15:50:16,870 Trying discovered key b'b8f30c5d815beaf70907c10c44f23873' in /mnt/users/jeley4465/.ssh/id_ed25519
+2025-02-11 15:50:16,878 Remote version/idstring: SSH-2.0-OpenSSH_8.7
+2025-02-11 15:50:16,878 Connected (version 2.0, client OpenSSH_8.7)
+2025-02-11 15:50:16,879 Resetting outbound seqno after NEWKEYS due to strict mode
+2025-02-11 15:50:16,879 kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-02-11 15:50:16,879 Switch to new keys ...
+2025-02-11 15:50:16,879 Resetting inbound seqno after NEWKEYS due to strict mode
+2025-02-11 15:50:16,879 Adding ssh-ed25519 host key for c10-1: b'db8f12c14f4a1a07558b0646d1581b87'
+2025-02-11 15:50:16,879 Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com,webauthn-sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-02-11 15:50:16,880 Trying discovered key b'b8f30c5d815beaf70907c10c44f23873' in /mnt/users/jeley4465/.ssh/id_ed25519
+2025-02-11 15:50:16,882 === Key exchange possibilities ===
+2025-02-11 15:50:16,882 kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group14-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, kex-strict-s-v00@openssh.com
+2025-02-11 15:50:16,882 server key: rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+2025-02-11 15:50:16,882 client encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 15:50:16,882 server encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 15:50:16,883 client mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 15:50:16,883 server mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 15:50:16,883 client compress: none, zlib@openssh.com
+2025-02-11 15:50:16,883 server compress: none, zlib@openssh.com
+2025-02-11 15:50:16,883 client lang: <none>
+2025-02-11 15:50:16,883 server lang: <none>
+2025-02-11 15:50:16,883 kex follows: False
+2025-02-11 15:50:16,883 === Key exchange agreements ===
+2025-02-11 15:50:16,883 Strict kex mode: True
+2025-02-11 15:50:16,883 Kex: curve25519-sha256@libssh.org
+2025-02-11 15:50:16,883 HostKey: ssh-ed25519
+2025-02-11 15:50:16,883 Cipher: aes128-ctr
+2025-02-11 15:50:16,883 MAC: hmac-sha2-256
+2025-02-11 15:50:16,883 Compression: none
+2025-02-11 15:50:16,883 === End of kex handshake ===
+2025-02-11 15:50:16,887 userauth is OK
+2025-02-11 15:50:16,900 Resetting outbound seqno after NEWKEYS due to strict mode
+2025-02-11 15:50:16,901 kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-02-11 15:50:16,901 Switch to new keys ...
+2025-02-11 15:50:16,901 Resetting inbound seqno after NEWKEYS due to strict mode
+2025-02-11 15:50:16,901 Adding ssh-ed25519 host key for c3-32: b'a09ff773e87d5a61962ce005fa70bdd9'
+2025-02-11 15:50:16,901 Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com,webauthn-sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-02-11 15:50:16,902 Trying discovered key b'b8f30c5d815beaf70907c10c44f23873' in /mnt/users/jeley4465/.ssh/id_ed25519
+2025-02-11 15:50:16,910 userauth is OK
+2025-02-11 15:50:16,919 userauth is OK
+2025-02-11 15:50:16,942 userauth is OK
+2025-02-11 15:50:16,997 Authentication (publickey) successful!
+2025-02-11 15:50:16,998 [chan 0] Max packet in: 32768 bytes
+2025-02-11 15:50:17,028 Received global request "hostkeys-00@openssh.com"
+2025-02-11 15:50:17,028 Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-02-11 15:50:17,028 Debug msg: b'/mnt/users/jeley4465/.ssh/authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding'
+2025-02-11 15:50:17,069 [chan 0] Max packet out: 32768 bytes
+2025-02-11 15:50:17,069 Secsh channel 0 opened.
+2025-02-11 15:50:17,071 [chan 0] Sesch channel 0 request ok
+2025-02-11 15:50:17,097 Authentication (publickey) successful!
+2025-02-11 15:50:17,098 [chan 0] Max packet in: 32768 bytes
+2025-02-11 15:50:17,129 Received global request "hostkeys-00@openssh.com"
+2025-02-11 15:50:17,129 Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-02-11 15:50:17,130 Debug msg: b'/mnt/users/jeley4465/.ssh/authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding'
+2025-02-11 15:50:17,170 [chan 0] Max packet out: 32768 bytes
+2025-02-11 15:50:17,170 Secsh channel 0 opened.
+2025-02-11 15:50:17,172 [chan 0] Sesch channel 0 request ok
+2025-02-11 15:50:17,213 Authentication (publickey) successful!
+2025-02-11 15:50:17,214 [chan 0] Max packet in: 32768 bytes
+2025-02-11 15:50:17,239 Received global request "hostkeys-00@openssh.com"
+2025-02-11 15:50:17,239 Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-02-11 15:50:17,239 Debug msg: b'/mnt/users/jeley4465/.ssh/authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding'
+2025-02-11 15:50:17,280 [chan 0] Max packet out: 32768 bytes
+2025-02-11 15:50:17,280 Secsh channel 0 opened.
+2025-02-11 15:50:17,281 [chan 0] Sesch channel 0 request ok
+2025-02-11 15:50:17,321 Authentication (publickey) successful!
+2025-02-11 15:50:17,321 [chan 0] Max packet in: 32768 bytes
+2025-02-11 15:50:17,359 Received global request "hostkeys-00@openssh.com"
+2025-02-11 15:50:17,359 Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-02-11 15:50:17,360 Debug msg: b'/mnt/users/jeley4465/.ssh/authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding'
+2025-02-11 15:50:17,400 [chan 0] Max packet out: 32768 bytes
+2025-02-11 15:50:17,400 Secsh channel 0 opened.
+2025-02-11 15:50:17,403 [chan 0] Sesch channel 0 request ok
+2025-02-11 15:50:17,629 [chan 0] EOF received (0)
+2025-02-11 15:50:17,630 [chan 0] EOF sent (0)
+2025-02-11 15:50:17,634 [chan 0] EOF received (0)
+2025-02-11 15:50:17,635 [chan 0] EOF sent (0)
+2025-02-11 15:50:17,687 [chan 0] EOF received (0)
+2025-02-11 15:50:17,687 [chan 0] EOF sent (0)
+2025-02-11 15:50:18,359 [chan 0] EOF received (0)
+2025-02-11 15:50:18,359 [chan 0] EOF sent (0)
+2025-02-11 16:06:31,911 Didn't see any /etc/invoke.yaml, skipping.
+2025-02-11 16:06:31,912 Didn't see any /etc/invoke.yml, skipping.
+2025-02-11 16:06:31,912 Didn't see any /etc/invoke.yaml, skipping.
+2025-02-11 16:06:31,912 Didn't see any /etc/invoke.yaml, skipping.
+2025-02-11 16:06:31,912 Didn't see any /etc/invoke.json, skipping.
+2025-02-11 16:06:31,913 Didn't see any /etc/invoke.yml, skipping.
+2025-02-11 16:06:31,913 Didn't see any /etc/invoke.yaml, skipping.
+2025-02-11 16:06:31,913 Didn't see any /etc/invoke.yml, skipping.
+2025-02-11 16:06:31,913 Didn't see any /mnt/users/jeley4465/.invoke.yaml, skipping.
+2025-02-11 16:06:31,913 Didn't see any /etc/invoke.json, skipping.
+2025-02-11 16:06:31,913 Didn't see any /etc/invoke.yml, skipping.
+2025-02-11 16:06:31,913 Didn't see any /etc/invoke.json, skipping.
+2025-02-11 16:06:31,914 Didn't see any /mnt/users/jeley4465/.invoke.yml, skipping.
+2025-02-11 16:06:31,914 Didn't see any /mnt/users/jeley4465/.invoke.yaml, skipping.
+2025-02-11 16:06:31,914 Didn't see any /etc/invoke.json, skipping.
+2025-02-11 16:06:31,914 Didn't see any /mnt/users/jeley4465/.invoke.yaml, skipping.
+2025-02-11 16:06:31,914 Didn't see any /mnt/users/jeley4465/.invoke.json, skipping.
+2025-02-11 16:06:31,914 Didn't see any /mnt/users/jeley4465/.invoke.yml, skipping.
+2025-02-11 16:06:31,914 Didn't see any /mnt/users/jeley4465/.invoke.yaml, skipping.
+2025-02-11 16:06:31,914 Didn't see any /mnt/users/jeley4465/.invoke.yml, skipping.
+2025-02-11 16:06:31,914 Merging config sources in order onto new empty _config...
+2025-02-11 16:06:31,915 Didn't see any /mnt/users/jeley4465/.invoke.json, skipping.
+2025-02-11 16:06:31,915 Didn't see any /mnt/users/jeley4465/.invoke.yml, skipping.
+2025-02-11 16:06:31,915 Didn't see any /mnt/users/jeley4465/.invoke.json, skipping.
+2025-02-11 16:06:31,915 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'tasks', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None}}
+2025-02-11 16:06:31,915 Merging config sources in order onto new empty _config...
+2025-02-11 16:06:31,915 Didn't see any /mnt/users/jeley4465/.invoke.json, skipping.
+2025-02-11 16:06:31,915 Merging config sources in order onto new empty _config...
+2025-02-11 16:06:31,915 Collection-driven: {}
+2025-02-11 16:06:31,915 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'tasks', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None}}
+2025-02-11 16:06:31,915 Merging config sources in order onto new empty _config...
+2025-02-11 16:06:31,916 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'tasks', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None}}
+2025-02-11 16:06:31,916 System-wide config file (/etc/invoke.py): {}
+2025-02-11 16:06:31,916 Collection-driven: {}
+2025-02-11 16:06:31,916 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'tasks', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None}}
+2025-02-11 16:06:31,916 Collection-driven: {}
+2025-02-11 16:06:31,916 Per-user config file (/mnt/users/jeley4465/.invoke.py): {}
+2025-02-11 16:06:31,916 System-wide config file (/etc/invoke.py): {}
+2025-02-11 16:06:31,916 Collection-driven: {}
+2025-02-11 16:06:31,916 System-wide config file (/etc/invoke.py): {}
+2025-02-11 16:06:31,916 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:06:31,916 Per-user config file (/mnt/users/jeley4465/.invoke.py): {}
+2025-02-11 16:06:31,916 System-wide config file (/etc/invoke.py): {}
+2025-02-11 16:06:31,917 Per-user config file (/mnt/users/jeley4465/.invoke.py): {}
+2025-02-11 16:06:31,917 Environment variable config: {}
+2025-02-11 16:06:31,917 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:06:31,917 Per-user config file (/mnt/users/jeley4465/.invoke.py): {}
+2025-02-11 16:06:31,917 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:06:31,917 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:06:31,917 Environment variable config: {}
+2025-02-11 16:06:31,917 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:06:31,917 Environment variable config: {}
+2025-02-11 16:06:31,917 Overrides: {}
+2025-02-11 16:06:31,917 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:06:31,917 Environment variable config: {}
+2025-02-11 16:06:31,917 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:06:31,917 Modifications: {}
+2025-02-11 16:06:31,917 Overrides: {}
+2025-02-11 16:06:31,917 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:06:31,918 Overrides: {}
+2025-02-11 16:06:31,918 Deletions: {}
+2025-02-11 16:06:31,918 Modifications: {}
+2025-02-11 16:06:31,918 Overrides: {}
+2025-02-11 16:06:31,918 Modifications: {}
+2025-02-11 16:06:31,918 Didn't see any /etc/fabric.yaml, skipping.
+2025-02-11 16:06:31,918 Deletions: {}
+2025-02-11 16:06:31,918 Modifications: {}
+2025-02-11 16:06:31,918 Deletions: {}
+2025-02-11 16:06:31,918 Didn't see any /etc/fabric.yml, skipping.
+2025-02-11 16:06:31,919 Didn't see any /etc/fabric.yaml, skipping.
+2025-02-11 16:06:31,919 Deletions: {}
+2025-02-11 16:06:31,919 Didn't see any /etc/fabric.yaml, skipping.
+2025-02-11 16:06:31,919 Didn't see any /etc/fabric.json, skipping.
+2025-02-11 16:06:31,919 Didn't see any /etc/fabric.yml, skipping.
+2025-02-11 16:06:31,919 Didn't see any /etc/fabric.yaml, skipping.
+2025-02-11 16:06:31,919 Didn't see any /etc/fabric.yml, skipping.
+2025-02-11 16:06:31,919 Didn't see any /mnt/users/jeley4465/.fabric.yaml, skipping.
+2025-02-11 16:06:31,920 Didn't see any /etc/fabric.json, skipping.
+2025-02-11 16:06:31,920 Didn't see any /etc/fabric.yml, skipping.
+2025-02-11 16:06:31,920 Didn't see any /etc/fabric.json, skipping.
+2025-02-11 16:06:31,920 Didn't see any /mnt/users/jeley4465/.fabric.yml, skipping.
+2025-02-11 16:06:31,920 Didn't see any /mnt/users/jeley4465/.fabric.yaml, skipping.
+2025-02-11 16:06:31,920 Didn't see any /etc/fabric.json, skipping.
+2025-02-11 16:06:31,921 Didn't see any /mnt/users/jeley4465/.fabric.yaml, skipping.
+2025-02-11 16:06:31,921 Didn't see any /mnt/users/jeley4465/.fabric.json, skipping.
+2025-02-11 16:06:31,921 Didn't see any /mnt/users/jeley4465/.fabric.yml, skipping.
+2025-02-11 16:06:31,921 Didn't see any /mnt/users/jeley4465/.fabric.yaml, skipping.
+2025-02-11 16:06:31,921 Didn't see any /mnt/users/jeley4465/.fabric.yml, skipping.
+2025-02-11 16:06:31,921 Merging config sources in order onto new empty _config...
+2025-02-11 16:06:31,921 Didn't see any /mnt/users/jeley4465/.fabric.json, skipping.
+2025-02-11 16:06:31,921 Didn't see any /mnt/users/jeley4465/.fabric.yml, skipping.
+2025-02-11 16:06:31,921 Didn't see any /mnt/users/jeley4465/.fabric.json, skipping.
+2025-02-11 16:06:31,921 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 16:06:31,922 Merging config sources in order onto new empty _config...
+2025-02-11 16:06:31,922 Didn't see any /mnt/users/jeley4465/.fabric.json, skipping.
+2025-02-11 16:06:31,922 Merging config sources in order onto new empty _config...
+2025-02-11 16:06:31,922 Collection-driven: {}
+2025-02-11 16:06:31,922 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 16:06:31,922 Merging config sources in order onto new empty _config...
+2025-02-11 16:06:31,922 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 16:06:31,922 System-wide config file (/etc/fabric.py): {}
+2025-02-11 16:06:31,922 Collection-driven: {}
+2025-02-11 16:06:31,922 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 16:06:31,922 Collection-driven: {}
+2025-02-11 16:06:31,923 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 16:06:31,923 System-wide config file (/etc/fabric.py): {}
+2025-02-11 16:06:31,923 Collection-driven: {}
+2025-02-11 16:06:31,923 System-wide config file (/etc/fabric.py): {}
+2025-02-11 16:06:31,923 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:06:31,923 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 16:06:31,923 System-wide config file (/etc/fabric.py): {}
+2025-02-11 16:06:31,923 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 16:06:31,923 Environment variable config: {}
+2025-02-11 16:06:31,923 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:06:31,923 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 16:06:31,923 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:06:31,923 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:06:31,923 Environment variable config: {}
+2025-02-11 16:06:31,923 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:06:31,924 Environment variable config: {}
+2025-02-11 16:06:31,924 Overrides: {}
+2025-02-11 16:06:31,924 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:06:31,924 Environment variable config: {}
+2025-02-11 16:06:31,924 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:06:31,924 Modifications: {}
+2025-02-11 16:06:31,924 Overrides: {}
+2025-02-11 16:06:31,924 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:06:31,924 Overrides: {}
+2025-02-11 16:06:31,924 Deletions: {}
+2025-02-11 16:06:31,924 Modifications: {}
+2025-02-11 16:06:31,924 Overrides: {}
+2025-02-11 16:06:31,924 Modifications: {}
+2025-02-11 16:06:31,924 Deletions: {}
+2025-02-11 16:06:31,925 Modifications: {}
+2025-02-11 16:06:31,925 Deletions: {}
+2025-02-11 16:06:31,925 Deletions: {}
+2025-02-11 16:06:31,926 Loaded 2 new ssh_config rules from '/mnt/users/jeley4465/.ssh/config'
+2025-02-11 16:06:31,926 Loaded 2 new ssh_config rules from '/mnt/users/jeley4465/.ssh/config'
+2025-02-11 16:06:31,926 Loaded 2 new ssh_config rules from '/mnt/users/jeley4465/.ssh/config'
+2025-02-11 16:06:31,926 Loaded 2 new ssh_config rules from '/mnt/users/jeley4465/.ssh/config'
+2025-02-11 16:06:31,926 Loaded 1 new ssh_config rules from '/etc/ssh/ssh_config'
+2025-02-11 16:06:31,927 Loaded 1 new ssh_config rules from '/etc/ssh/ssh_config'
+2025-02-11 16:06:31,927 Loaded 1 new ssh_config rules from '/etc/ssh/ssh_config'
+2025-02-11 16:06:31,928 Merging config sources in order onto new empty _config...
+2025-02-11 16:06:31,929 Merging config sources in order onto new empty _config...
+2025-02-11 16:06:31,929 Loaded 1 new ssh_config rules from '/etc/ssh/ssh_config'
+2025-02-11 16:06:31,930 Merging config sources in order onto new empty _config...
+2025-02-11 16:06:31,930 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 16:06:31,930 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 16:06:31,931 Merging config sources in order onto new empty _config...
+2025-02-11 16:06:31,931 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 16:06:31,931 Collection-driven: {}
+2025-02-11 16:06:31,931 Collection-driven: {}
+2025-02-11 16:06:31,931 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 16:06:31,932 Collection-driven: {}
+2025-02-11 16:06:31,932 System-wide config file (/etc/fabric.py): {}
+2025-02-11 16:06:31,932 System-wide config file (/etc/fabric.py): {}
+2025-02-11 16:06:31,932 Collection-driven: {}
+2025-02-11 16:06:31,932 System-wide config file (/etc/fabric.py): {}
+2025-02-11 16:06:31,932 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 16:06:31,932 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 16:06:31,932 System-wide config file (/etc/fabric.py): {}
+2025-02-11 16:06:31,932 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 16:06:31,932 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:06:31,932 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:06:31,932 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 16:06:31,932 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:06:31,932 Environment variable config: {}
+2025-02-11 16:06:31,933 Environment variable config: {}
+2025-02-11 16:06:31,933 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:06:31,933 Environment variable config: {}
+2025-02-11 16:06:31,933 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:06:31,933 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:06:31,933 Environment variable config: {}
+2025-02-11 16:06:31,933 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:06:31,933 Overrides: {}
+2025-02-11 16:06:31,933 Overrides: {}
+2025-02-11 16:06:31,933 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:06:31,933 Overrides: {}
+2025-02-11 16:06:31,933 Modifications: {'inline_ssh_env': True}
+2025-02-11 16:06:31,933 Modifications: {'inline_ssh_env': True}
+2025-02-11 16:06:31,933 Overrides: {}
+2025-02-11 16:06:31,933 Modifications: {'inline_ssh_env': True}
+2025-02-11 16:06:31,934 Deletions: {}
+2025-02-11 16:06:31,934 Deletions: {}
+2025-02-11 16:06:31,934 Modifications: {'inline_ssh_env': True}
+2025-02-11 16:06:31,934 Deletions: {}
+2025-02-11 16:06:31,935 Deletions: {}
+2025-02-11 16:06:31,941 starting thread (client mode): 0xb2a1070
+2025-02-11 16:06:31,941 starting thread (client mode): 0xb204980
+2025-02-11 16:06:31,941 starting thread (client mode): 0xb11b2c0
+2025-02-11 16:06:31,941 Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-02-11 16:06:31,941 Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-02-11 16:06:31,942 Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-02-11 16:06:31,951 Remote version/idstring: SSH-2.0-OpenSSH_8.7
+2025-02-11 16:06:31,951 Connected (version 2.0, client OpenSSH_8.7)
+2025-02-11 16:06:31,953 === Key exchange possibilities ===
+2025-02-11 16:06:31,953 kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group14-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, kex-strict-s-v00@openssh.com
+2025-02-11 16:06:31,953 server key: rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+2025-02-11 16:06:31,953 client encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 16:06:31,953 server encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 16:06:31,953 client mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 16:06:31,953 server mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 16:06:31,953 client compress: none, zlib@openssh.com
+2025-02-11 16:06:31,953 server compress: none, zlib@openssh.com
+2025-02-11 16:06:31,953 client lang: <none>
+2025-02-11 16:06:31,953 server lang: <none>
+2025-02-11 16:06:31,953 kex follows: False
+2025-02-11 16:06:31,954 === Key exchange agreements ===
+2025-02-11 16:06:31,954 Strict kex mode: True
+2025-02-11 16:06:31,954 Kex: curve25519-sha256@libssh.org
+2025-02-11 16:06:31,954 HostKey: ssh-ed25519
+2025-02-11 16:06:31,954 Cipher: aes128-ctr
+2025-02-11 16:06:31,954 MAC: hmac-sha2-256
+2025-02-11 16:06:31,954 Compression: none
+2025-02-11 16:06:31,954 === End of kex handshake ===
+2025-02-11 16:06:31,955 Remote version/idstring: SSH-2.0-OpenSSH_8.7
+2025-02-11 16:06:31,956 Connected (version 2.0, client OpenSSH_8.7)
+2025-02-11 16:06:31,958 === Key exchange possibilities ===
+2025-02-11 16:06:31,958 kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group14-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, kex-strict-s-v00@openssh.com
+2025-02-11 16:06:31,958 server key: rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+2025-02-11 16:06:31,958 client encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 16:06:31,958 server encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 16:06:31,959 client mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 16:06:31,959 server mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 16:06:31,959 client compress: none, zlib@openssh.com
+2025-02-11 16:06:31,959 server compress: none, zlib@openssh.com
+2025-02-11 16:06:31,959 client lang: <none>
+2025-02-11 16:06:31,959 server lang: <none>
+2025-02-11 16:06:31,959 kex follows: False
+2025-02-11 16:06:31,959 === Key exchange agreements ===
+2025-02-11 16:06:31,959 Strict kex mode: True
+2025-02-11 16:06:31,959 Kex: curve25519-sha256@libssh.org
+2025-02-11 16:06:31,959 HostKey: ssh-ed25519
+2025-02-11 16:06:31,959 Cipher: aes128-ctr
+2025-02-11 16:06:31,959 MAC: hmac-sha2-256
+2025-02-11 16:06:31,959 Compression: none
+2025-02-11 16:06:31,959 === End of kex handshake ===
+2025-02-11 16:06:31,961 Resetting outbound seqno after NEWKEYS due to strict mode
+2025-02-11 16:06:31,961 kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-02-11 16:06:31,962 Switch to new keys ...
+2025-02-11 16:06:31,962 Resetting inbound seqno after NEWKEYS due to strict mode
+2025-02-11 16:06:31,962 Adding ssh-ed25519 host key for c3-21: b'aa12ba3c719c6a4f5085024d81618ae2'
+2025-02-11 16:06:31,963 Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com,webauthn-sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-02-11 16:06:31,964 starting thread (client mode): 0xb11ac90
+2025-02-11 16:06:31,964 Trying discovered key b'b8f30c5d815beaf70907c10c44f23873' in /mnt/users/jeley4465/.ssh/id_ed25519
+2025-02-11 16:06:31,964 Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-02-11 16:06:31,967 Remote version/idstring: SSH-2.0-OpenSSH_8.7
+2025-02-11 16:06:31,967 Connected (version 2.0, client OpenSSH_8.7)
+2025-02-11 16:06:31,971 Resetting outbound seqno after NEWKEYS due to strict mode
+2025-02-11 16:06:31,971 kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-02-11 16:06:31,971 Switch to new keys ...
+2025-02-11 16:06:31,971 Resetting inbound seqno after NEWKEYS due to strict mode
+2025-02-11 16:06:31,971 Adding ssh-ed25519 host key for c10-1: b'db8f12c14f4a1a07558b0646d1581b87'
+2025-02-11 16:06:31,972 === Key exchange possibilities ===
+2025-02-11 16:06:31,972 Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com,webauthn-sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-02-11 16:06:31,972 kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group14-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, kex-strict-s-v00@openssh.com
+2025-02-11 16:06:31,972 server key: rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+2025-02-11 16:06:31,972 client encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 16:06:31,972 server encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 16:06:31,972 client mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 16:06:31,972 server mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 16:06:31,973 client compress: none, zlib@openssh.com
+2025-02-11 16:06:31,973 server compress: none, zlib@openssh.com
+2025-02-11 16:06:31,973 Trying discovered key b'b8f30c5d815beaf70907c10c44f23873' in /mnt/users/jeley4465/.ssh/id_ed25519
+2025-02-11 16:06:31,973 client lang: <none>
+2025-02-11 16:06:31,973 server lang: <none>
+2025-02-11 16:06:31,973 kex follows: False
+2025-02-11 16:06:31,973 === Key exchange agreements ===
+2025-02-11 16:06:31,973 Strict kex mode: True
+2025-02-11 16:06:31,973 Kex: curve25519-sha256@libssh.org
+2025-02-11 16:06:31,973 HostKey: ssh-ed25519
+2025-02-11 16:06:31,973 Cipher: aes128-ctr
+2025-02-11 16:06:31,973 MAC: hmac-sha2-256
+2025-02-11 16:06:31,974 Compression: none
+2025-02-11 16:06:31,974 === End of kex handshake ===
+2025-02-11 16:06:31,975 Remote version/idstring: SSH-2.0-OpenSSH_8.7
+2025-02-11 16:06:31,975 Connected (version 2.0, client OpenSSH_8.7)
+2025-02-11 16:06:31,977 === Key exchange possibilities ===
+2025-02-11 16:06:31,977 kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group14-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, kex-strict-s-v00@openssh.com
+2025-02-11 16:06:31,977 server key: rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+2025-02-11 16:06:31,977 client encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 16:06:31,977 server encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 16:06:31,977 client mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 16:06:31,977 server mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 16:06:31,977 client compress: none, zlib@openssh.com
+2025-02-11 16:06:31,977 server compress: none, zlib@openssh.com
+2025-02-11 16:06:31,977 client lang: <none>
+2025-02-11 16:06:31,977 server lang: <none>
+2025-02-11 16:06:31,977 kex follows: False
+2025-02-11 16:06:31,977 === Key exchange agreements ===
+2025-02-11 16:06:31,977 Strict kex mode: True
+2025-02-11 16:06:31,977 Kex: curve25519-sha256@libssh.org
+2025-02-11 16:06:31,977 HostKey: ssh-ed25519
+2025-02-11 16:06:31,977 Cipher: aes128-ctr
+2025-02-11 16:06:31,978 MAC: hmac-sha2-256
+2025-02-11 16:06:31,978 Compression: none
+2025-02-11 16:06:31,978 === End of kex handshake ===
+2025-02-11 16:06:31,985 Resetting outbound seqno after NEWKEYS due to strict mode
+2025-02-11 16:06:31,985 kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-02-11 16:06:31,985 Switch to new keys ...
+2025-02-11 16:06:31,985 Resetting inbound seqno after NEWKEYS due to strict mode
+2025-02-11 16:06:31,985 Adding ssh-ed25519 host key for c3-0: b'd2e9919251cd512a4cc578f14d908145'
+2025-02-11 16:06:31,985 Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com,webauthn-sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-02-11 16:06:31,986 Trying discovered key b'b8f30c5d815beaf70907c10c44f23873' in /mnt/users/jeley4465/.ssh/id_ed25519
+2025-02-11 16:06:31,991 Resetting outbound seqno after NEWKEYS due to strict mode
+2025-02-11 16:06:31,991 kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-02-11 16:06:31,991 Switch to new keys ...
+2025-02-11 16:06:31,991 Resetting inbound seqno after NEWKEYS due to strict mode
+2025-02-11 16:06:31,991 Adding ssh-ed25519 host key for c3-32: b'a09ff773e87d5a61962ce005fa70bdd9'
+2025-02-11 16:06:31,991 Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com,webauthn-sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-02-11 16:06:31,992 Trying discovered key b'b8f30c5d815beaf70907c10c44f23873' in /mnt/users/jeley4465/.ssh/id_ed25519
+2025-02-11 16:06:32,002 userauth is OK
+2025-02-11 16:06:32,011 userauth is OK
+2025-02-11 16:06:32,025 userauth is OK
+2025-02-11 16:06:32,032 userauth is OK
+2025-02-11 16:06:32,114 Authentication (publickey) successful!
+2025-02-11 16:06:32,115 [chan 0] Max packet in: 32768 bytes
+2025-02-11 16:06:32,256 Authentication (publickey) successful!
+2025-02-11 16:06:32,257 [chan 0] Max packet in: 32768 bytes
+2025-02-11 16:06:32,262 Authentication (publickey) successful!
+2025-02-11 16:06:32,263 [chan 0] Max packet in: 32768 bytes
+2025-02-11 16:06:32,286 Received global request "hostkeys-00@openssh.com"
+2025-02-11 16:06:32,286 Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-02-11 16:06:32,287 Debug msg: b'/mnt/users/jeley4465/.ssh/authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding'
+2025-02-11 16:06:32,327 [chan 0] Max packet out: 32768 bytes
+2025-02-11 16:06:32,327 Secsh channel 0 opened.
+2025-02-11 16:06:32,328 [chan 0] Sesch channel 0 request ok
+2025-02-11 16:06:32,343 Received global request "hostkeys-00@openssh.com"
+2025-02-11 16:06:32,343 Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-02-11 16:06:32,343 Debug msg: b'/mnt/users/jeley4465/.ssh/authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding'
+2025-02-11 16:06:32,385 [chan 0] Max packet out: 32768 bytes
+2025-02-11 16:06:32,385 Secsh channel 0 opened.
+2025-02-11 16:06:32,387 [chan 0] Sesch channel 0 request ok
+2025-02-11 16:06:32,391 Authentication (publickey) successful!
+2025-02-11 16:06:32,391 [chan 0] Max packet in: 32768 bytes
+2025-02-11 16:06:32,446 Received global request "hostkeys-00@openssh.com"
+2025-02-11 16:06:32,446 Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-02-11 16:06:32,446 Debug msg: b'/mnt/users/jeley4465/.ssh/authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding'
+2025-02-11 16:06:32,486 [chan 0] Max packet out: 32768 bytes
+2025-02-11 16:06:32,486 Secsh channel 0 opened.
+2025-02-11 16:06:32,488 [chan 0] Sesch channel 0 request ok
+2025-02-11 16:06:32,803 Received global request "hostkeys-00@openssh.com"
+2025-02-11 16:06:32,803 Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-02-11 16:06:32,803 Debug msg: b'/mnt/users/jeley4465/.ssh/authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding'
+2025-02-11 16:06:32,843 [chan 0] Max packet out: 32768 bytes
+2025-02-11 16:06:32,843 Secsh channel 0 opened.
+2025-02-11 16:06:32,846 [chan 0] Sesch channel 0 request ok
+2025-02-11 16:06:54,418 [chan 0] EOF received (0)
+2025-02-11 16:06:54,422 [chan 0] EOF sent (0)
+2025-02-11 16:06:58,427 [chan 0] EOF received (0)
+2025-02-11 16:06:58,432 [chan 0] EOF sent (0)
+2025-02-11 16:06:59,901 [chan 0] EOF received (0)
+2025-02-11 16:06:59,905 [chan 0] EOF sent (0)
+2025-02-11 16:07:00,247 [chan 0] EOF received (0)
+2025-02-11 16:07:00,247 [chan 0] EOF sent (0)
+2025-02-11 16:07:00,359 Didn't see any /etc/invoke.yaml, skipping.
+2025-02-11 16:07:00,359 Didn't see any /etc/invoke.yml, skipping.
+2025-02-11 16:07:00,359 Didn't see any /etc/invoke.yaml, skipping.
+2025-02-11 16:07:00,359 Didn't see any /etc/invoke.json, skipping.
+2025-02-11 16:07:00,360 Didn't see any /etc/invoke.yaml, skipping.
+2025-02-11 16:07:00,360 Didn't see any /etc/invoke.yml, skipping.
+2025-02-11 16:07:00,360 Didn't see any /etc/invoke.yaml, skipping.
+2025-02-11 16:07:00,360 Didn't see any /mnt/users/jeley4465/.invoke.yaml, skipping.
+2025-02-11 16:07:00,360 Didn't see any /etc/invoke.yml, skipping.
+2025-02-11 16:07:00,361 Didn't see any /etc/invoke.json, skipping.
+2025-02-11 16:07:00,361 Didn't see any /etc/invoke.yml, skipping.
+2025-02-11 16:07:00,361 Didn't see any /mnt/users/jeley4465/.invoke.yml, skipping.
+2025-02-11 16:07:00,361 Didn't see any /etc/invoke.json, skipping.
+2025-02-11 16:07:00,361 Didn't see any /mnt/users/jeley4465/.invoke.yaml, skipping.
+2025-02-11 16:07:00,361 Didn't see any /etc/invoke.json, skipping.
+2025-02-11 16:07:00,361 Didn't see any /mnt/users/jeley4465/.invoke.json, skipping.
+2025-02-11 16:07:00,361 Didn't see any /mnt/users/jeley4465/.invoke.yaml, skipping.
+2025-02-11 16:07:00,361 Didn't see any /mnt/users/jeley4465/.invoke.yml, skipping.
+2025-02-11 16:07:00,362 Didn't see any /mnt/users/jeley4465/.invoke.yaml, skipping.
+2025-02-11 16:07:00,362 Merging config sources in order onto new empty _config...
+2025-02-11 16:07:00,362 Didn't see any /mnt/users/jeley4465/.invoke.yml, skipping.
+2025-02-11 16:07:00,362 Didn't see any /mnt/users/jeley4465/.invoke.json, skipping.
+2025-02-11 16:07:00,362 Didn't see any /mnt/users/jeley4465/.invoke.yml, skipping.
+2025-02-11 16:07:00,362 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'tasks', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None}}
+2025-02-11 16:07:00,362 Didn't see any /mnt/users/jeley4465/.invoke.json, skipping.
+2025-02-11 16:07:00,362 Merging config sources in order onto new empty _config...
+2025-02-11 16:07:00,362 Didn't see any /mnt/users/jeley4465/.invoke.json, skipping.
+2025-02-11 16:07:00,362 Collection-driven: {}
+2025-02-11 16:07:00,363 Merging config sources in order onto new empty _config...
+2025-02-11 16:07:00,363 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'tasks', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None}}
+2025-02-11 16:07:00,363 Merging config sources in order onto new empty _config...
+2025-02-11 16:07:00,363 System-wide config file (/etc/invoke.py): {}
+2025-02-11 16:07:00,363 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'tasks', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None}}
+2025-02-11 16:07:00,363 Collection-driven: {}
+2025-02-11 16:07:00,363 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'tasks', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None}}
+2025-02-11 16:07:00,363 Per-user config file (/mnt/users/jeley4465/.invoke.py): {}
+2025-02-11 16:07:00,363 Collection-driven: {}
+2025-02-11 16:07:00,363 System-wide config file (/etc/invoke.py): {}
+2025-02-11 16:07:00,363 Collection-driven: {}
+2025-02-11 16:07:00,364 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:07:00,364 System-wide config file (/etc/invoke.py): {}
+2025-02-11 16:07:00,364 Per-user config file (/mnt/users/jeley4465/.invoke.py): {}
+2025-02-11 16:07:00,364 System-wide config file (/etc/invoke.py): {}
+2025-02-11 16:07:00,364 Environment variable config: {}
+2025-02-11 16:07:00,364 Per-user config file (/mnt/users/jeley4465/.invoke.py): {}
+2025-02-11 16:07:00,364 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:07:00,364 Per-user config file (/mnt/users/jeley4465/.invoke.py): {}
+2025-02-11 16:07:00,364 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:07:00,364 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:07:00,364 Environment variable config: {}
+2025-02-11 16:07:00,364 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:07:00,364 Overrides: {}
+2025-02-11 16:07:00,364 Environment variable config: {}
+2025-02-11 16:07:00,364 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:07:00,365 Environment variable config: {}
+2025-02-11 16:07:00,365 Modifications: {}
+2025-02-11 16:07:00,365 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:07:00,365 Overrides: {}
+2025-02-11 16:07:00,365 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:07:00,365 Deletions: {}
+2025-02-11 16:07:00,365 Overrides: {}
+2025-02-11 16:07:00,365 Modifications: {}
+2025-02-11 16:07:00,365 Overrides: {}
+2025-02-11 16:07:00,365 Didn't see any /etc/fabric.yaml, skipping.
+2025-02-11 16:07:00,365 Modifications: {}
+2025-02-11 16:07:00,365 Deletions: {}
+2025-02-11 16:07:00,365 Modifications: {}
+2025-02-11 16:07:00,366 Didn't see any /etc/fabric.yml, skipping.
+2025-02-11 16:07:00,366 Deletions: {}
+2025-02-11 16:07:00,366 Didn't see any /etc/fabric.yaml, skipping.
+2025-02-11 16:07:00,366 Deletions: {}
+2025-02-11 16:07:00,366 Didn't see any /etc/fabric.json, skipping.
+2025-02-11 16:07:00,366 Didn't see any /etc/fabric.yaml, skipping.
+2025-02-11 16:07:00,366 Didn't see any /etc/fabric.yml, skipping.
+2025-02-11 16:07:00,366 Didn't see any /etc/fabric.yaml, skipping.
+2025-02-11 16:07:00,367 Didn't see any /mnt/users/jeley4465/.fabric.yaml, skipping.
+2025-02-11 16:07:00,367 Didn't see any /etc/fabric.yml, skipping.
+2025-02-11 16:07:00,367 Didn't see any /etc/fabric.json, skipping.
+2025-02-11 16:07:00,367 Didn't see any /etc/fabric.yml, skipping.
+2025-02-11 16:07:00,367 Didn't see any /mnt/users/jeley4465/.fabric.yml, skipping.
+2025-02-11 16:07:00,367 Didn't see any /etc/fabric.json, skipping.
+2025-02-11 16:07:00,367 Didn't see any /mnt/users/jeley4465/.fabric.yaml, skipping.
+2025-02-11 16:07:00,367 Didn't see any /etc/fabric.json, skipping.
+2025-02-11 16:07:00,367 Didn't see any /mnt/users/jeley4465/.fabric.json, skipping.
+2025-02-11 16:07:00,368 Didn't see any /mnt/users/jeley4465/.fabric.yaml, skipping.
+2025-02-11 16:07:00,368 Didn't see any /mnt/users/jeley4465/.fabric.yml, skipping.
+2025-02-11 16:07:00,368 Didn't see any /mnt/users/jeley4465/.fabric.yaml, skipping.
+2025-02-11 16:07:00,368 Merging config sources in order onto new empty _config...
+2025-02-11 16:07:00,368 Didn't see any /mnt/users/jeley4465/.fabric.yml, skipping.
+2025-02-11 16:07:00,368 Didn't see any /mnt/users/jeley4465/.fabric.json, skipping.
+2025-02-11 16:07:00,368 Didn't see any /mnt/users/jeley4465/.fabric.yml, skipping.
+2025-02-11 16:07:00,368 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 16:07:00,368 Didn't see any /mnt/users/jeley4465/.fabric.json, skipping.
+2025-02-11 16:07:00,368 Merging config sources in order onto new empty _config...
+2025-02-11 16:07:00,369 Didn't see any /mnt/users/jeley4465/.fabric.json, skipping.
+2025-02-11 16:07:00,369 Collection-driven: {}
+2025-02-11 16:07:00,369 Merging config sources in order onto new empty _config...
+2025-02-11 16:07:00,369 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 16:07:00,369 Merging config sources in order onto new empty _config...
+2025-02-11 16:07:00,369 System-wide config file (/etc/fabric.py): {}
+2025-02-11 16:07:00,369 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 16:07:00,369 Collection-driven: {}
+2025-02-11 16:07:00,369 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 16:07:00,369 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 16:07:00,369 Collection-driven: {}
+2025-02-11 16:07:00,370 System-wide config file (/etc/fabric.py): {}
+2025-02-11 16:07:00,370 Collection-driven: {}
+2025-02-11 16:07:00,370 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:07:00,370 System-wide config file (/etc/fabric.py): {}
+2025-02-11 16:07:00,370 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 16:07:00,370 System-wide config file (/etc/fabric.py): {}
+2025-02-11 16:07:00,370 Environment variable config: {}
+2025-02-11 16:07:00,370 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 16:07:00,370 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:07:00,370 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 16:07:00,370 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:07:00,370 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:07:00,370 Environment variable config: {}
+2025-02-11 16:07:00,370 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:07:00,370 Overrides: {}
+2025-02-11 16:07:00,371 Environment variable config: {}
+2025-02-11 16:07:00,371 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:07:00,371 Environment variable config: {}
+2025-02-11 16:07:00,371 Modifications: {}
+2025-02-11 16:07:00,371 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:07:00,371 Overrides: {}
+2025-02-11 16:07:00,371 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:07:00,371 Deletions: {}
+2025-02-11 16:07:00,371 Overrides: {}
+2025-02-11 16:07:00,371 Modifications: {}
+2025-02-11 16:07:00,371 Overrides: {}
+2025-02-11 16:07:00,371 Modifications: {}
+2025-02-11 16:07:00,371 Deletions: {}
+2025-02-11 16:07:00,372 Modifications: {}
+2025-02-11 16:07:00,372 Loaded 2 new ssh_config rules from '/mnt/users/jeley4465/.ssh/config'
+2025-02-11 16:07:00,372 Deletions: {}
+2025-02-11 16:07:00,372 Deletions: {}
+2025-02-11 16:07:00,372 Loaded 2 new ssh_config rules from '/mnt/users/jeley4465/.ssh/config'
+2025-02-11 16:07:00,373 Loaded 1 new ssh_config rules from '/etc/ssh/ssh_config'
+2025-02-11 16:07:00,374 Merging config sources in order onto new empty _config...
+2025-02-11 16:07:00,374 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 16:07:00,374 Loaded 2 new ssh_config rules from '/mnt/users/jeley4465/.ssh/config'
+2025-02-11 16:07:00,374 Collection-driven: {}
+2025-02-11 16:07:00,374 Loaded 1 new ssh_config rules from '/etc/ssh/ssh_config'
+2025-02-11 16:07:00,374 Loaded 2 new ssh_config rules from '/mnt/users/jeley4465/.ssh/config'
+2025-02-11 16:07:00,374 System-wide config file (/etc/fabric.py): {}
+2025-02-11 16:07:00,375 Merging config sources in order onto new empty _config...
+2025-02-11 16:07:00,375 Loaded 1 new ssh_config rules from '/etc/ssh/ssh_config'
+2025-02-11 16:07:00,375 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 16:07:00,375 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 16:07:00,376 Loaded 1 new ssh_config rules from '/etc/ssh/ssh_config'
+2025-02-11 16:07:00,376 Merging config sources in order onto new empty _config...
+2025-02-11 16:07:00,377 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:07:00,377 Collection-driven: {}
+2025-02-11 16:07:00,378 Merging config sources in order onto new empty _config...
+2025-02-11 16:07:00,378 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 16:07:00,378 Environment variable config: {}
+2025-02-11 16:07:00,378 System-wide config file (/etc/fabric.py): {}
+2025-02-11 16:07:00,378 Defaults: {'run': {'asynchronous': False, 'disown': False, 'dry': False, 'echo': False, 'echo_stdin': None, 'encoding': None, 'env': {}, 'err_stream': None, 'fallback': True, 'hide': None, 'in_stream': None, 'out_stream': None, 'echo_format': '\x1b[1;37m{command}\x1b[0m', 'pty': False, 'replace_env': False, 'shell': '/bin/bash', 'warn': False, 'watchers': []}, 'runners': {'local': <class 'invoke.runners.Local'>, 'remote': <class 'fabric.runners.Remote'>, 'remote_shell': <class 'fabric.runners.RemoteShell'>}, 'sudo': {'password': None, 'prompt': '[sudo] password: ', 'user': None}, 'tasks': {'auto_dash_names': True, 'collection_name': 'fabfile', 'dedupe': True, 'executor_class': None, 'ignore_unknown_help': False, 'search_root': None}, 'timeouts': {'command': None, 'connect': None}, 'authentication': {'identities': [], 'strategy_class': None}, 'connect_kwargs': {}, 'forward_agent': False, 'gateway': None, 'inline_ssh_env': True, 'load_ssh_configs': True, 'port': 22, 'ssh_config_path': None, 'user': 'jeley4465'}
+2025-02-11 16:07:00,378 Collection-driven: {}
+2025-02-11 16:07:00,378 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:07:00,378 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 16:07:00,378 Collection-driven: {}
+2025-02-11 16:07:00,378 System-wide config file (/etc/fabric.py): {}
+2025-02-11 16:07:00,378 Overrides: {}
+2025-02-11 16:07:00,378 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:07:00,379 System-wide config file (/etc/fabric.py): {}
+2025-02-11 16:07:00,379 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 16:07:00,379 Modifications: {'inline_ssh_env': True}
+2025-02-11 16:07:00,379 Environment variable config: {}
+2025-02-11 16:07:00,379 Per-user config file (/mnt/users/jeley4465/.fabric.py): {}
+2025-02-11 16:07:00,379 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:07:00,379 Deletions: {}
+2025-02-11 16:07:00,379 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:07:00,379 Per-project config file has not been loaded yet, skipping
+2025-02-11 16:07:00,379 Environment variable config: {}
+2025-02-11 16:07:00,380 Overrides: {}
+2025-02-11 16:07:00,380 Environment variable config: {}
+2025-02-11 16:07:00,380 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:07:00,380 Modifications: {'inline_ssh_env': True}
+2025-02-11 16:07:00,380 Runtime config file has not been loaded yet, skipping
+2025-02-11 16:07:00,380 Overrides: {}
+2025-02-11 16:07:00,380 Deletions: {}
+2025-02-11 16:07:00,380 Overrides: {}
+2025-02-11 16:07:00,381 starting thread (client mode): 0xb143e00
+2025-02-11 16:07:00,381 Modifications: {'inline_ssh_env': True}
+2025-02-11 16:07:00,381 Modifications: {'inline_ssh_env': True}
+2025-02-11 16:07:00,381 Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-02-11 16:07:00,381 Deletions: {}
+2025-02-11 16:07:00,381 Deletions: {}
+2025-02-11 16:07:00,382 starting thread (client mode): 0xb141a90
+2025-02-11 16:07:00,383 Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-02-11 16:07:00,383 starting thread (client mode): 0xb1436e0
+2025-02-11 16:07:00,383 Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-02-11 16:07:00,384 starting thread (client mode): 0xb142b40
+2025-02-11 16:07:00,384 Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-02-11 16:07:00,392 Remote version/idstring: SSH-2.0-OpenSSH_8.7
+2025-02-11 16:07:00,392 Connected (version 2.0, client OpenSSH_8.7)
+2025-02-11 16:07:00,393 Remote version/idstring: SSH-2.0-OpenSSH_8.7
+2025-02-11 16:07:00,393 Connected (version 2.0, client OpenSSH_8.7)
+2025-02-11 16:07:00,394 === Key exchange possibilities ===
+2025-02-11 16:07:00,394 kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group14-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, kex-strict-s-v00@openssh.com
+2025-02-11 16:07:00,394 server key: rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+2025-02-11 16:07:00,394 client encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 16:07:00,394 server encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 16:07:00,394 client mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 16:07:00,394 server mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 16:07:00,394 client compress: none, zlib@openssh.com
+2025-02-11 16:07:00,394 server compress: none, zlib@openssh.com
+2025-02-11 16:07:00,394 client lang: <none>
+2025-02-11 16:07:00,394 server lang: <none>
+2025-02-11 16:07:00,394 kex follows: False
+2025-02-11 16:07:00,394 === Key exchange agreements ===
+2025-02-11 16:07:00,394 Strict kex mode: True
+2025-02-11 16:07:00,394 Kex: curve25519-sha256@libssh.org
+2025-02-11 16:07:00,395 HostKey: ssh-ed25519
+2025-02-11 16:07:00,395 Cipher: aes128-ctr
+2025-02-11 16:07:00,395 MAC: hmac-sha2-256
+2025-02-11 16:07:00,395 Compression: none
+2025-02-11 16:07:00,395 === End of kex handshake ===
+2025-02-11 16:07:00,395 === Key exchange possibilities ===
+2025-02-11 16:07:00,395 kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group14-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, kex-strict-s-v00@openssh.com
+2025-02-11 16:07:00,395 server key: rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+2025-02-11 16:07:00,395 client encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 16:07:00,395 server encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 16:07:00,395 client mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 16:07:00,396 server mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 16:07:00,396 client compress: none, zlib@openssh.com
+2025-02-11 16:07:00,396 server compress: none, zlib@openssh.com
+2025-02-11 16:07:00,396 client lang: <none>
+2025-02-11 16:07:00,396 server lang: <none>
+2025-02-11 16:07:00,396 kex follows: False
+2025-02-11 16:07:00,396 === Key exchange agreements ===
+2025-02-11 16:07:00,396 Strict kex mode: True
+2025-02-11 16:07:00,396 Kex: curve25519-sha256@libssh.org
+2025-02-11 16:07:00,396 HostKey: ssh-ed25519
+2025-02-11 16:07:00,396 Cipher: aes128-ctr
+2025-02-11 16:07:00,396 MAC: hmac-sha2-256
+2025-02-11 16:07:00,396 Compression: none
+2025-02-11 16:07:00,396 === End of kex handshake ===
+2025-02-11 16:07:00,399 Remote version/idstring: SSH-2.0-OpenSSH_8.7
+2025-02-11 16:07:00,399 Connected (version 2.0, client OpenSSH_8.7)
+2025-02-11 16:07:00,402 === Key exchange possibilities ===
+2025-02-11 16:07:00,402 kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group14-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, kex-strict-s-v00@openssh.com
+2025-02-11 16:07:00,402 Resetting outbound seqno after NEWKEYS due to strict mode
+2025-02-11 16:07:00,402 server key: rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+2025-02-11 16:07:00,402 kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-02-11 16:07:00,402 client encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 16:07:00,402 server encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 16:07:00,402 Switch to new keys ...
+2025-02-11 16:07:00,403 client mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 16:07:00,403 Resetting inbound seqno after NEWKEYS due to strict mode
+2025-02-11 16:07:00,403 server mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 16:07:00,403 Adding ssh-ed25519 host key for c3-21: b'aa12ba3c719c6a4f5085024d81618ae2'
+2025-02-11 16:07:00,403 client compress: none, zlib@openssh.com
+2025-02-11 16:07:00,403 Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com,webauthn-sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-02-11 16:07:00,404 server compress: none, zlib@openssh.com
+2025-02-11 16:07:00,404 Resetting outbound seqno after NEWKEYS due to strict mode
+2025-02-11 16:07:00,404 client lang: <none>
+2025-02-11 16:07:00,404 kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-02-11 16:07:00,404 server lang: <none>
+2025-02-11 16:07:00,404 kex follows: False
+2025-02-11 16:07:00,404 === Key exchange agreements ===
+2025-02-11 16:07:00,404 Switch to new keys ...
+2025-02-11 16:07:00,405 Strict kex mode: True
+2025-02-11 16:07:00,405 Trying discovered key b'b8f30c5d815beaf70907c10c44f23873' in /mnt/users/jeley4465/.ssh/id_ed25519
+2025-02-11 16:07:00,405 Resetting inbound seqno after NEWKEYS due to strict mode
+2025-02-11 16:07:00,405 Kex: curve25519-sha256@libssh.org
+2025-02-11 16:07:00,405 Adding ssh-ed25519 host key for c3-0: b'd2e9919251cd512a4cc578f14d908145'
+2025-02-11 16:07:00,405 HostKey: ssh-ed25519
+2025-02-11 16:07:00,405 Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com,webauthn-sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-02-11 16:07:00,406 Cipher: aes128-ctr
+2025-02-11 16:07:00,406 MAC: hmac-sha2-256
+2025-02-11 16:07:00,406 Compression: none
+2025-02-11 16:07:00,406 === End of kex handshake ===
+2025-02-11 16:07:00,406 Trying discovered key b'b8f30c5d815beaf70907c10c44f23873' in /mnt/users/jeley4465/.ssh/id_ed25519
+2025-02-11 16:07:00,412 Remote version/idstring: SSH-2.0-OpenSSH_8.7
+2025-02-11 16:07:00,413 Connected (version 2.0, client OpenSSH_8.7)
+2025-02-11 16:07:00,417 === Key exchange possibilities ===
+2025-02-11 16:07:00,417 kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group14-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, kex-strict-s-v00@openssh.com
+2025-02-11 16:07:00,417 Resetting outbound seqno after NEWKEYS due to strict mode
+2025-02-11 16:07:00,417 server key: rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+2025-02-11 16:07:00,418 kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-02-11 16:07:00,418 client encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 16:07:00,418 server encrypt: aes256-gcm@openssh.com, chacha20-poly1305@openssh.com, aes256-ctr, aes128-gcm@openssh.com, aes128-ctr
+2025-02-11 16:07:00,418 Switch to new keys ...
+2025-02-11 16:07:00,418 client mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 16:07:00,418 Resetting inbound seqno after NEWKEYS due to strict mode
+2025-02-11 16:07:00,418 server mac: hmac-sha2-256-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha2-256, hmac-sha1, umac-128@openssh.com, hmac-sha2-512
+2025-02-11 16:07:00,418 Adding ssh-ed25519 host key for c10-1: b'db8f12c14f4a1a07558b0646d1581b87'
+2025-02-11 16:07:00,418 client compress: none, zlib@openssh.com
+2025-02-11 16:07:00,418 Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com,webauthn-sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-02-11 16:07:00,419 server compress: none, zlib@openssh.com
+2025-02-11 16:07:00,419 client lang: <none>
+2025-02-11 16:07:00,419 server lang: <none>
+2025-02-11 16:07:00,419 kex follows: False
+2025-02-11 16:07:00,419 === Key exchange agreements ===
+2025-02-11 16:07:00,419 Strict kex mode: True
+2025-02-11 16:07:00,419 Kex: curve25519-sha256@libssh.org
+2025-02-11 16:07:00,419 HostKey: ssh-ed25519
+2025-02-11 16:07:00,419 Cipher: aes128-ctr
+2025-02-11 16:07:00,420 MAC: hmac-sha2-256
+2025-02-11 16:07:00,420 Trying discovered key b'b8f30c5d815beaf70907c10c44f23873' in /mnt/users/jeley4465/.ssh/id_ed25519
+2025-02-11 16:07:00,420 Compression: none
+2025-02-11 16:07:00,420 === End of kex handshake ===
+2025-02-11 16:07:00,437 Resetting outbound seqno after NEWKEYS due to strict mode
+2025-02-11 16:07:00,437 kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-02-11 16:07:00,437 Switch to new keys ...
+2025-02-11 16:07:00,438 Resetting inbound seqno after NEWKEYS due to strict mode
+2025-02-11 16:07:00,438 Adding ssh-ed25519 host key for c3-32: b'a09ff773e87d5a61962ce005fa70bdd9'
+2025-02-11 16:07:00,438 Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com,webauthn-sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-02-11 16:07:00,438 Trying discovered key b'b8f30c5d815beaf70907c10c44f23873' in /mnt/users/jeley4465/.ssh/id_ed25519
+2025-02-11 16:07:00,443 userauth is OK
+2025-02-11 16:07:00,444 userauth is OK
+2025-02-11 16:07:00,458 userauth is OK
+2025-02-11 16:07:00,478 userauth is OK
+2025-02-11 16:07:00,533 Authentication (publickey) successful!
+2025-02-11 16:07:00,534 [chan 0] Max packet in: 32768 bytes
+2025-02-11 16:07:00,561 Received global request "hostkeys-00@openssh.com"
+2025-02-11 16:07:00,561 Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-02-11 16:07:00,561 Debug msg: b'/mnt/users/jeley4465/.ssh/authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding'
+2025-02-11 16:07:00,602 [chan 0] Max packet out: 32768 bytes
+2025-02-11 16:07:00,602 Secsh channel 0 opened.
+2025-02-11 16:07:00,604 [chan 0] Sesch channel 0 request ok
+2025-02-11 16:07:00,657 Authentication (publickey) successful!
+2025-02-11 16:07:00,657 [chan 0] Max packet in: 32768 bytes
+2025-02-11 16:07:00,683 Received global request "hostkeys-00@openssh.com"
+2025-02-11 16:07:00,683 Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-02-11 16:07:00,684 Debug msg: b'/mnt/users/jeley4465/.ssh/authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding'
+2025-02-11 16:07:00,689 Authentication (publickey) successful!
+2025-02-11 16:07:00,690 [chan 0] Max packet in: 32768 bytes
+2025-02-11 16:07:00,714 Received global request "hostkeys-00@openssh.com"
+2025-02-11 16:07:00,714 Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-02-11 16:07:00,715 Debug msg: b'/mnt/users/jeley4465/.ssh/authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding'
+2025-02-11 16:07:00,724 [chan 0] Max packet out: 32768 bytes
+2025-02-11 16:07:00,724 Secsh channel 0 opened.
+2025-02-11 16:07:00,726 [chan 0] Sesch channel 0 request ok
+2025-02-11 16:07:00,755 [chan 0] Max packet out: 32768 bytes
+2025-02-11 16:07:00,755 Secsh channel 0 opened.
+2025-02-11 16:07:00,756 [chan 0] Sesch channel 0 request ok
+2025-02-11 16:07:00,798 Authentication (publickey) successful!
+2025-02-11 16:07:00,798 [chan 0] Max packet in: 32768 bytes
+2025-02-11 16:07:00,841 Received global request "hostkeys-00@openssh.com"
+2025-02-11 16:07:00,841 Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-02-11 16:07:00,841 Debug msg: b'/mnt/users/jeley4465/.ssh/authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding'
+2025-02-11 16:07:00,882 [chan 0] Max packet out: 32768 bytes
+2025-02-11 16:07:00,882 Secsh channel 0 opened.
+2025-02-11 16:07:00,886 [chan 0] Sesch channel 0 request ok
+2025-02-11 16:07:01,170 [chan 0] EOF received (0)
+2025-02-11 16:07:01,171 [chan 0] EOF sent (0)
+2025-02-11 16:07:01,202 [chan 0] EOF received (0)
+2025-02-11 16:07:01,202 [chan 0] EOF sent (0)
+2025-02-11 16:07:01,220 [chan 0] EOF received (0)
+2025-02-11 16:07:01,220 [chan 0] EOF sent (0)
+2025-02-11 16:07:01,842 [chan 0] EOF received (0)
+2025-02-11 16:07:01,842 [chan 0] EOF sent (0)

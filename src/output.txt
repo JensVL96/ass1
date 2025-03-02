@@ -1,0 +1,32 @@
+Mapper count: 2, Reducer count: 2, Time: 1.785336
+Mapper count: 2, Reducer count: 4, Time: 1.848462
+Mapper count: 2, Reducer count: 8, Time: 2.038635
+Mapper count: 2, Reducer count: 16, Time: 1.814264
+Mapper count: 4, Reducer count: 2, Time: 1.927794
+Mapper count: 4, Reducer count: 4, Time: 1.676371
+Mapper count: 4, Reducer count: 8, Time: 1.584598
+Mapper count: 4, Reducer count: 16, Time: 1.973843
+Mapper count: 8, Reducer count: 2, Time: 1.605022
+Mapper count: 8, Reducer count: 4, Time: 1.602924
+Mapper count: 8, Reducer count: 8, Time: 1.711915
+Mapper count: 8, Reducer count: 16, Time: 2.076168
+Mapper count: 16, Reducer count: 2, Time: 1.537221
+Mapper count: 16, Reducer count: 4, Time: 1.843498
+Mapper count: 16, Reducer count: 8, Time: 1.774320
+Mapper count: 16, Reducer count: 16, Time: 2.054124
+Mapper count: 2, Reducer count: 2, Mapper Time: 0.066751, Reducer Time: 0.010150, Total Time: 4.015077
+Mapper count: 2, Reducer count: 4, Mapper Time: 0.004262, Reducer Time: 0.002721, Total Time: 2.093924
+Mapper count: 2, Reducer count: 8, Mapper Time: 0.036013, Reducer Time: 0.053573, Total Time: 2.147803
+Mapper count: 2, Reducer count: 16, Mapper Time: 0.004670, Reducer Time: 0.020353, Total Time: 2.801528
+Mapper count: 4, Reducer count: 2, Mapper Time: 0.046850, Reducer Time: 0.003992, Total Time: 1.437255
+Mapper count: 4, Reducer count: 4, Mapper Time: 0.003840, Reducer Time: 0.019385, Total Time: 1.381196
+Mapper count: 4, Reducer count: 8, Mapper Time: 0.020710, Reducer Time: 0.059708, Total Time: 1.626098
+Mapper count: 4, Reducer count: 16, Mapper Time: 0.004103, Reducer Time: 0.004927, Total Time: 2.201721
+Mapper count: 8, Reducer count: 2, Mapper Time: 0.054568, Reducer Time: 0.027535, Total Time: 1.457621
+Mapper count: 8, Reducer count: 4, Mapper Time: 0.003795, Reducer Time: 0.022332, Total Time: 1.479747
+Mapper count: 8, Reducer count: 8, Mapper Time: 0.024386, Reducer Time: 0.034064, Total Time: 1.599218
+Mapper count: 8, Reducer count: 16, Mapper Time: 0.049063, Reducer Time: 0.026150, Total Time: 2.310305
+Mapper count: 16, Reducer count: 2, Mapper Time: 0.011828, Reducer Time: 0.006724, Total Time: 2.059352
+Mapper count: 16, Reducer count: 4, Mapper Time: 0.013615, Reducer Time: 0.009317, Total Time: 2.003444
+Mapper count: 16, Reducer count: 8, Mapper Time: 0.033111, Reducer Time: 0.077160, Total Time: 2.274255
+Mapper count: 16, Reducer count: 16, Mapper Time: 0.021922, Reducer Time: 0.052150, Total Time: 2.747776
