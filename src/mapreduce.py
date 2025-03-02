@@ -289,5 +289,3 @@ if __name__ == "__main__":
         do_mapping(args.intermediate_files.split(','), config, args.tmp_output_file)
     elif args.execution_mode == "reduce":
         do_reducing(args.intermediate_files.split(','), config, args.tmp_output_file)
-
-
